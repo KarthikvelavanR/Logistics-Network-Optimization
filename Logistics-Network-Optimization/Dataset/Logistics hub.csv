@@ -1,0 +1,501 @@
+Hub_ID,Hub_City,Hub_State,Region,Hub_Size_SqFt,Hub_Type,Max_Capacity,Avg_Daily_Throughput,Hub_Operating_Cost,Hub_Status
+H001,London,England,South East,82870,Local,5874,3873,567340,Maintenance
+H002,Birmingham,England,West Midlands,82843,Local,3625,2812,625477,Active
+H003,Edinburgh,Scotland,Scotland,80452,Local,4357,3174,568632,Active
+H004,Edinburgh,Scotland,Scotland,256375,Central,10341,9098,692536,Active
+H005,Leeds,England,Yorkshire,200955,Central,13960,10463,390496,Maintenance
+H006,Sheffield,England,Yorkshire,136323,Regional,7325,4817,509888,Maintenance
+H007,Bristol,England,South West,80315,Local,3503,2710,339543,Active
+H008,Bristol,England,South West,100550,Local,5526,4199,331124,Active
+H009,London,England,South East,228860,Central,13474,9623,753055,Active
+H010,Liverpool,England,North West,236699,Central,11247,7612,660849,Active
+H011,Birmingham,England,West Midlands,113262,Local,3858,3121,710122,Maintenance
+H012,London,England,South East,147487,Regional,7423,5367,424704,Maintenance
+H013,Sheffield,England,Yorkshire,96851,Local,4930,4143,725335,Active
+H014,Sheffield,England,Yorkshire,107794,Local,5321,3839,726949,Active
+H015,Leeds,England,Yorkshire,233810,Central,9635,8270,681074,Active
+H016,Bristol,England,South West,146530,Regional,6035,5045,475767,Active
+H017,Bristol,England,South West,219453,Central,9977,6995,641842,Maintenance
+H018,Liverpool,England,North West,81401,Local,5105,3476,612862,Active
+H019,Manchester,England,North West,101254,Local,5712,3950,688681,Active
+H020,Manchester,England,North West,173544,Regional,8346,6970,788301,Active
+H021,London,England,South East,137705,Regional,6525,4713,851462,Maintenance
+H022,Glasgow,Scotland,Scotland,188361,Central,10047,6797,488348,Maintenance
+H023,Leicester,England,East Midlands,177814,Regional,6699,4831,495543,Active
+H024,London,England,South East,121305,Regional,8749,5885,848825,Maintenance
+H025,Bristol,England,South West,132561,Regional,6323,4865,468725,Maintenance
+H026,Liverpool,England,North West,131720,Regional,8942,6265,527710,Maintenance
+H027,Leeds,England,Yorkshire,160276,Regional,8757,7200,443988,Active
+H028,London,England,South East,240421,Central,14653,10010,307326,Active
+H029,Glasgow,Scotland,Scotland,89275,Local,4733,3503,810948,Maintenance
+H030,London,England,South East,285615,Central,9900,6866,779413,Active
+H031,Glasgow,Scotland,Scotland,103674,Local,3665,2428,613100,Maintenance
+H032,Leeds,England,Yorkshire,286450,Central,14278,10595,375293,Maintenance
+H033,Glasgow,Scotland,Scotland,268456,Central,14594,12877,445206,Active
+H034,Liverpool,England,North West,204266,Central,12692,11209,778164,Active
+H035,Bristol,England,South West,209083,Central,12505,10147,509528,Active
+H036,Birmingham,England,West Midlands,186405,Central,13298,9590,408818,Maintenance
+H037,Manchester,England,North West,247548,Central,12842,10066,490304,Active
+H038,Bristol,England,South West,152095,Regional,7032,5392,838182,Active
+H039,London,England,South East,144327,Regional,6070,4762,815884,Active
+H040,Leeds,England,Yorkshire,80130,Local,4727,3695,572841,Maintenance
+H041,Edinburgh,Scotland,Scotland,83236,Local,4350,3779,555722,Active
+H042,Sheffield,England,Yorkshire,143731,Regional,6114,4836,652705,Maintenance
+H043,Glasgow,Scotland,Scotland,178553,Regional,6308,4421,888460,Maintenance
+H044,Glasgow,Scotland,Scotland,174832,Regional,6674,5682,594651,Maintenance
+H045,Birmingham,England,West Midlands,83611,Local,3893,3443,755707,Maintenance
+H046,Birmingham,England,West Midlands,228526,Central,13699,10643,483890,Active
+H047,Bristol,England,South West,285541,Central,13926,10246,449713,Maintenance
+H048,Sheffield,England,Yorkshire,110831,Local,5247,3727,720037,Active
+H049,Edinburgh,Scotland,Scotland,215465,Central,13009,10171,873667,Maintenance
+H050,London,England,South East,85872,Local,4303,2986,681194,Maintenance
+H051,Sheffield,England,Yorkshire,105496,Local,5715,4569,616916,Active
+H052,Edinburgh,Scotland,Scotland,82817,Local,5442,4771,362119,Maintenance
+H053,Manchester,England,North West,116658,Local,5980,4113,377348,Active
+H054,Sheffield,England,Yorkshire,178747,Regional,8796,6229,657214,Maintenance
+H055,Bristol,England,South West,253429,Central,12076,8238,494051,Maintenance
+H056,Sheffield,England,Yorkshire,131488,Regional,8946,7291,510174,Active
+H057,Bristol,England,South West,212978,Central,10588,8510,610413,Active
+H058,Bristol,England,South West,268862,Central,11128,8386,729729,Maintenance
+H059,Edinburgh,Scotland,Scotland,92740,Local,5423,4257,538826,Active
+H060,Edinburgh,Scotland,Scotland,99857,Local,4525,3851,722452,Active
+H061,Birmingham,England,West Midlands,139978,Regional,8834,6876,784938,Maintenance
+H062,Edinburgh,Scotland,Scotland,219194,Central,10409,9318,773635,Maintenance
+H063,Sheffield,England,Yorkshire,126424,Regional,8603,7036,400024,Maintenance
+H064,Leeds,England,Yorkshire,281287,Central,9423,6511,899158,Active
+H065,Edinburgh,Scotland,Scotland,120890,Regional,6012,4645,656173,Active
+H066,Edinburgh,Scotland,Scotland,172312,Regional,7232,6021,434477,Active
+H067,Birmingham,England,West Midlands,264489,Central,14379,10191,429999,Maintenance
+H068,Sheffield,England,Yorkshire,196534,Central,10155,7455,622242,Maintenance
+H069,Leeds,England,Yorkshire,290349,Central,11818,7986,451611,Active
+H070,Manchester,England,North West,116211,Local,4753,3609,361601,Active
+H071,Edinburgh,Scotland,Scotland,98498,Local,5787,4397,793670,Active
+H072,Leicester,England,East Midlands,141426,Regional,7488,5041,791026,Active
+H073,Leicester,England,East Midlands,296521,Central,14153,10797,890572,Active
+H074,Manchester,England,North West,289217,Central,11939,10043,352497,Maintenance
+H075,Leeds,England,Yorkshire,156830,Regional,7589,6523,436571,Active
+H076,Sheffield,England,Yorkshire,131002,Regional,7262,5708,815524,Maintenance
+H077,London,England,South East,91073,Local,5823,4789,334286,Maintenance
+H078,Birmingham,England,West Midlands,130345,Regional,7382,5669,888134,Maintenance
+H079,Birmingham,England,West Midlands,189758,Central,14542,12669,291781,Active
+H080,London,England,South East,268145,Central,11932,8187,603337,Maintenance
+H081,Bristol,England,South West,126055,Regional,7137,6113,765205,Active
+H082,Sheffield,England,Yorkshire,101190,Local,4904,3589,394656,Active
+H083,Glasgow,Scotland,Scotland,231178,Central,13380,11980,667816,Maintenance
+H084,Leicester,England,East Midlands,148912,Regional,7973,6506,506960,Active
+H085,Manchester,England,North West,194200,Central,11320,8681,715920,Maintenance
+H086,Bristol,England,South West,142691,Regional,8294,6059,834809,Maintenance
+H087,Manchester,England,North West,158907,Regional,8363,6191,794061,Active
+H088,Glasgow,Scotland,Scotland,177538,Regional,7792,6905,863430,Active
+H089,London,England,South East,158723,Regional,7252,5238,788325,Maintenance
+H090,Birmingham,England,West Midlands,105010,Local,3568,2342,565731,Maintenance
+H091,Leicester,England,East Midlands,122881,Regional,6989,4991,286045,Active
+H092,London,England,South East,146469,Regional,6614,5560,678137,Active
+H093,Liverpool,England,North West,214595,Central,10937,9149,633572,Active
+H094,Sheffield,England,Yorkshire,111530,Local,5627,4539,544467,Maintenance
+H095,Liverpool,England,North West,258884,Central,9376,7359,754404,Active
+H096,Leicester,England,East Midlands,286754,Central,13052,9045,353130,Maintenance
+H097,London,England,South East,90053,Local,4992,4250,483063,Active
+H098,Sheffield,England,Yorkshire,139094,Regional,6521,5190,893294,Active
+H099,Bristol,England,South West,253013,Central,14724,10172,418220,Active
+H100,Leeds,England,Yorkshire,119954,Local,5318,4544,895264,Active
+H101,Liverpool,England,North West,273290,Central,14652,12143,538861,Active
+H102,Leicester,England,East Midlands,93783,Local,4654,3427,286265,Maintenance
+H103,Edinburgh,Scotland,Scotland,114270,Local,5642,3857,622279,Maintenance
+H104,London,England,South East,281805,Central,14189,10947,858295,Maintenance
+H105,Sheffield,England,Yorkshire,119922,Local,5015,3696,597029,Active
+H106,Glasgow,Scotland,Scotland,179419,Regional,6964,5802,491888,Active
+H107,Manchester,England,North West,277322,Central,12689,11297,332832,Active
+H108,Birmingham,England,West Midlands,219933,Central,11646,8109,464288,Active
+H109,Leicester,England,East Midlands,208549,Central,10350,7781,721629,Maintenance
+H110,Edinburgh,Scotland,Scotland,282482,Central,11956,8463,663589,Maintenance
+H111,Leeds,England,Yorkshire,249539,Central,12634,11037,439457,Active
+H112,Edinburgh,Scotland,Scotland,144271,Regional,8478,6638,511990,Maintenance
+H113,London,England,South East,170590,Regional,6927,5697,765324,Maintenance
+H114,Sheffield,England,Yorkshire,293032,Central,14554,12808,409136,Maintenance
+H115,Liverpool,England,North West,107834,Local,4478,3046,653457,Maintenance
+H116,Liverpool,England,North West,123874,Regional,8321,6143,897405,Active
+H117,Liverpool,England,North West,240750,Central,14446,11540,324763,Active
+H118,Manchester,England,North West,122946,Regional,7090,6165,315720,Maintenance
+H119,Bristol,England,South West,141000,Regional,6452,4877,786947,Maintenance
+H120,London,England,South East,290504,Central,14837,13129,399690,Maintenance
+H121,Leeds,England,Yorkshire,168196,Regional,6965,5663,825579,Maintenance
+H122,Edinburgh,Scotland,Scotland,232969,Central,14808,10721,360335,Active
+H123,Liverpool,England,North West,124954,Regional,8127,6909,688334,Active
+H124,Sheffield,England,Yorkshire,96928,Local,5651,4758,829851,Active
+H125,Edinburgh,Scotland,Scotland,105625,Local,5348,3809,663387,Active
+H126,Sheffield,England,Yorkshire,226401,Central,11052,9728,871572,Maintenance
+H127,Bristol,England,South West,251972,Central,10968,9489,616581,Maintenance
+H128,Leicester,England,East Midlands,139760,Regional,8944,6462,628352,Maintenance
+H129,Leeds,England,Yorkshire,149504,Regional,7665,6524,443118,Active
+H130,Birmingham,England,West Midlands,228940,Central,9692,8507,540380,Active
+H131,Leicester,England,East Midlands,190443,Central,9064,7287,825185,Maintenance
+H132,London,England,South East,85779,Local,3981,3040,616240,Maintenance
+H133,Edinburgh,Scotland,Scotland,87118,Local,5407,4132,881068,Maintenance
+H134,Edinburgh,Scotland,Scotland,213694,Central,9256,6569,707251,Maintenance
+H135,Liverpool,England,North West,218980,Central,9303,7957,439210,Active
+H136,Manchester,England,North West,171692,Regional,7325,5175,752384,Active
+H137,Leicester,England,East Midlands,101246,Local,5260,4566,701322,Maintenance
+H138,London,England,South East,268848,Central,12997,9465,606335,Maintenance
+H139,Liverpool,England,North West,163505,Regional,7186,5369,478720,Active
+H140,London,England,South East,137281,Regional,7162,5184,811641,Active
+H141,Bristol,England,South West,155651,Regional,7640,5602,406233,Maintenance
+H142,Glasgow,Scotland,Scotland,216381,Central,13616,9327,754634,Active
+H143,Sheffield,England,Yorkshire,92710,Local,5384,4679,612624,Maintenance
+H144,Birmingham,England,West Midlands,115774,Local,4817,3849,392346,Active
+H145,Edinburgh,Scotland,Scotland,234403,Central,14182,9956,793363,Maintenance
+H146,Leicester,England,East Midlands,241168,Central,9780,8223,616680,Maintenance
+H147,Birmingham,England,West Midlands,110335,Local,3824,3300,823898,Active
+H148,Bristol,England,South West,167595,Regional,8933,7870,595944,Active
+H149,Manchester,England,North West,254050,Central,14756,12346,836961,Maintenance
+H150,Sheffield,England,Yorkshire,164663,Regional,6110,4206,532475,Maintenance
+H151,Glasgow,Scotland,Scotland,80581,Local,4582,3328,512421,Maintenance
+H152,Glasgow,Scotland,Scotland,160063,Regional,8344,7108,358569,Active
+H153,Leeds,England,Yorkshire,284150,Central,10603,7651,818065,Maintenance
+H154,Leeds,England,Yorkshire,102092,Local,3522,3124,677527,Maintenance
+H155,Sheffield,England,Yorkshire,108265,Local,3818,2794,407610,Active
+H156,Leicester,England,East Midlands,265609,Central,13156,10485,755698,Maintenance
+H157,Edinburgh,Scotland,Scotland,283826,Central,14037,12222,628770,Active
+H158,Liverpool,England,North West,284340,Central,14778,10144,735737,Active
+H159,Edinburgh,Scotland,Scotland,153396,Regional,6946,5521,292583,Active
+H160,Liverpool,England,North West,155393,Regional,7598,5377,685499,Maintenance
+H161,Bristol,England,South West,114764,Local,4522,3544,392767,Maintenance
+H162,Leicester,England,East Midlands,136241,Regional,8150,6936,614534,Active
+H163,Birmingham,England,West Midlands,214015,Central,13532,10736,524316,Maintenance
+H164,Liverpool,England,North West,193283,Central,10651,8968,577171,Active
+H165,Glasgow,Scotland,Scotland,142613,Regional,6716,4641,669118,Maintenance
+H166,Sheffield,England,Yorkshire,141290,Regional,7305,6252,576086,Active
+H167,Liverpool,England,North West,204536,Central,11305,7387,359927,Active
+H168,Leeds,England,Yorkshire,142666,Regional,8104,6737,620795,Maintenance
+H169,Edinburgh,Scotland,Scotland,264415,Central,9900,6695,765134,Maintenance
+H170,Bristol,England,South West,150427,Regional,8806,7827,798629,Active
+H171,Glasgow,Scotland,Scotland,104051,Local,4203,3140,588694,Maintenance
+H172,Birmingham,England,West Midlands,87008,Local,4764,3158,478740,Active
+H173,Birmingham,England,West Midlands,103966,Local,3588,2635,891478,Active
+H174,Glasgow,Scotland,Scotland,195476,Central,11571,9221,316765,Maintenance
+H175,Sheffield,England,Yorkshire,100716,Local,5002,3585,539972,Active
+H176,Leeds,England,Yorkshire,125196,Regional,6781,5689,382027,Active
+H177,Bristol,England,South West,105932,Local,5862,4473,863754,Maintenance
+H178,London,England,South East,110968,Local,4808,3886,651978,Active
+H179,Edinburgh,Scotland,Scotland,224293,Central,14829,13069,880255,Active
+H180,Leeds,England,Yorkshire,126753,Regional,7563,6128,829737,Active
+H181,Leeds,England,Yorkshire,91265,Local,4854,4301,578448,Maintenance
+H182,Leeds,England,Yorkshire,98560,Local,5382,3696,346507,Maintenance
+H183,Leeds,England,Yorkshire,91302,Local,4211,3411,724170,Maintenance
+H184,Glasgow,Scotland,Scotland,201664,Central,10362,8294,835577,Active
+H185,Liverpool,England,North West,213114,Central,9839,8149,748146,Maintenance
+H186,Leicester,England,East Midlands,155286,Regional,7391,6176,866296,Active
+H187,Edinburgh,Scotland,Scotland,112178,Local,4582,3031,349311,Active
+H188,London,England,South East,209685,Central,12023,9414,762486,Maintenance
+H189,Sheffield,England,Yorkshire,143949,Regional,7500,6085,751040,Active
+H190,Glasgow,Scotland,Scotland,110824,Local,5199,4262,432408,Maintenance
+H191,Leicester,England,East Midlands,114910,Local,5430,4654,718246,Active
+H192,Liverpool,England,North West,125332,Regional,6046,4038,484130,Active
+H193,Leeds,England,Yorkshire,140589,Regional,7117,4692,650202,Maintenance
+H194,Liverpool,England,North West,108749,Local,4669,3221,291986,Active
+H195,Glasgow,Scotland,Scotland,118800,Local,5654,4393,290847,Active
+H196,Manchester,England,North West,205739,Central,12789,9465,391670,Maintenance
+H197,Leeds,England,Yorkshire,217313,Central,9787,8793,529294,Active
+H198,Birmingham,England,West Midlands,157234,Regional,7001,5304,403512,Maintenance
+H199,Leeds,England,Yorkshire,109735,Local,3599,2701,559827,Active
+H200,Leicester,England,East Midlands,287232,Central,14331,12889,513474,Active
+H201,Liverpool,England,North West,151691,Regional,6003,4686,687490,Active
+H202,Bristol,England,South West,83708,Local,5094,3633,375800,Active
+H203,Glasgow,Scotland,Scotland,213271,Central,11905,9162,648962,Maintenance
+H204,Birmingham,England,West Midlands,226786,Central,10508,7200,443641,Active
+H205,Manchester,England,North West,162627,Regional,6424,5132,806432,Maintenance
+H206,Glasgow,Scotland,Scotland,262197,Central,12460,10007,370347,Active
+H207,Edinburgh,Scotland,Scotland,297244,Central,13918,11073,769870,Maintenance
+H208,London,England,South East,94616,Local,4793,4256,825346,Maintenance
+H209,Bristol,England,South West,290936,Central,14639,12006,414045,Active
+H210,Liverpool,England,North West,194939,Central,9797,8458,371725,Active
+H211,Manchester,England,North West,227343,Central,12066,8840,384278,Active
+H212,Glasgow,Scotland,Scotland,100695,Local,4552,3192,326254,Active
+H213,Leicester,England,East Midlands,295410,Central,13183,10533,330961,Active
+H214,Manchester,England,North West,268834,Central,11956,9976,832764,Active
+H215,Glasgow,Scotland,Scotland,254283,Central,12567,9720,661614,Maintenance
+H216,Sheffield,England,Yorkshire,91203,Local,5255,3950,809116,Maintenance
+H217,Bristol,England,South West,101824,Local,4135,3250,776593,Maintenance
+H218,Leicester,England,East Midlands,173748,Regional,6439,5777,292287,Maintenance
+H219,Leeds,England,Yorkshire,133198,Regional,8111,6589,875512,Maintenance
+H220,Manchester,England,North West,165300,Regional,7180,5248,885810,Maintenance
+H221,Sheffield,England,Yorkshire,103138,Local,5654,4011,386794,Active
+H222,Leicester,England,East Midlands,221968,Central,14662,12974,427029,Active
+H223,Sheffield,England,Yorkshire,96074,Local,4858,3422,387998,Maintenance
+H224,Leicester,England,East Midlands,143427,Regional,8099,6450,776975,Maintenance
+H225,Liverpool,England,North West,115157,Local,4280,3409,770888,Active
+H226,Bristol,England,South West,168262,Regional,7319,5083,499908,Maintenance
+H227,Liverpool,England,North West,228225,Central,13700,12174,687929,Active
+H228,Leeds,England,Yorkshire,97050,Local,4953,4375,883025,Maintenance
+H229,Leeds,England,Yorkshire,90799,Local,5440,3867,882279,Maintenance
+H230,Birmingham,England,West Midlands,94290,Local,5086,3434,478882,Active
+H231,Liverpool,England,North West,292397,Central,13938,9388,549986,Active
+H232,London,England,South East,118376,Local,4523,3342,651733,Active
+H233,Leicester,England,East Midlands,216537,Central,13226,10921,447466,Active
+H234,Birmingham,England,West Midlands,93009,Local,3980,3313,731799,Active
+H235,Manchester,England,North West,90315,Local,3706,3144,749130,Maintenance
+H236,Manchester,England,North West,107957,Local,5274,4101,806676,Maintenance
+H237,Glasgow,Scotland,Scotland,104664,Local,5652,5005,603998,Maintenance
+H238,London,England,South East,118825,Local,4317,3598,746254,Maintenance
+H239,Birmingham,England,West Midlands,203632,Central,13386,9287,809791,Active
+H240,Sheffield,England,Yorkshire,117561,Local,4802,4037,708696,Maintenance
+H241,Manchester,England,North West,171091,Regional,8569,7260,295954,Active
+H242,Leeds,England,Yorkshire,80441,Local,4411,3636,825670,Active
+H243,Birmingham,England,West Midlands,284985,Central,13349,10038,329106,Active
+H244,Manchester,England,North West,198383,Central,10085,8075,385312,Active
+H245,Edinburgh,Scotland,Scotland,258783,Central,9623,7298,415719,Active
+H246,Bristol,England,South West,191416,Central,10736,9211,551481,Maintenance
+H247,Sheffield,England,Yorkshire,114701,Local,3733,3168,656613,Active
+H248,London,England,South East,92216,Local,4088,3001,887146,Active
+H249,Edinburgh,Scotland,Scotland,132668,Regional,6768,4946,832111,Active
+H250,Edinburgh,Scotland,Scotland,125572,Regional,6397,4341,616358,Maintenance
+H251,Leeds,England,Yorkshire,189612,Central,11946,8863,667402,Active
+H252,Bristol,England,South West,147198,Regional,7083,5232,796887,Maintenance
+H253,Manchester,England,North West,282727,Central,10435,8994,437576,Maintenance
+H254,Liverpool,England,North West,166313,Regional,7222,5100,288417,Maintenance
+H255,Birmingham,England,West Midlands,85384,Local,5427,4108,289922,Maintenance
+H256,Glasgow,Scotland,Scotland,252903,Central,14427,9822,362022,Maintenance
+H257,Bristol,England,South West,122499,Regional,6728,5226,320596,Maintenance
+H258,Liverpool,England,North West,181617,Central,14595,9529,829209,Maintenance
+H259,Leicester,England,East Midlands,95512,Local,4653,3061,408287,Maintenance
+H260,Edinburgh,Scotland,Scotland,182806,Central,14172,10952,593881,Active
+H261,Liverpool,England,North West,274667,Central,12451,10999,447515,Active
+H262,London,England,South East,100752,Local,3742,3118,399729,Active
+H263,Liverpool,England,North West,135579,Regional,7007,4675,585301,Active
+H264,Leicester,England,East Midlands,159473,Regional,7121,5757,680267,Active
+H265,Birmingham,England,West Midlands,157573,Regional,8014,5262,294678,Maintenance
+H266,Glasgow,Scotland,Scotland,88516,Local,3861,3429,305231,Maintenance
+H267,Edinburgh,Scotland,Scotland,134346,Regional,6379,5512,383550,Active
+H268,Birmingham,England,West Midlands,162730,Regional,7064,4933,793333,Active
+H269,Edinburgh,Scotland,Scotland,265328,Central,11149,8326,658952,Maintenance
+H270,Manchester,England,North West,80658,Local,4063,3216,785222,Maintenance
+H271,Leeds,England,Yorkshire,144133,Regional,8996,7088,679772,Maintenance
+H272,Sheffield,England,Yorkshire,85352,Local,4247,3448,867835,Active
+H273,Edinburgh,Scotland,Scotland,215589,Central,14754,12431,718874,Active
+H274,Manchester,England,North West,238230,Central,13257,11203,840653,Maintenance
+H275,Edinburgh,Scotland,Scotland,123690,Regional,6970,5762,797326,Active
+H276,Leeds,England,Yorkshire,144594,Regional,8769,6372,828549,Maintenance
+H277,Leicester,England,East Midlands,91114,Local,5805,5058,753780,Active
+H278,London,England,South East,249674,Central,10245,8265,492597,Active
+H279,Leeds,England,Yorkshire,149454,Regional,7701,5723,290343,Active
+H280,Leeds,England,Yorkshire,248639,Central,9995,8731,498737,Maintenance
+H281,Bristol,England,South West,109651,Local,5711,4305,881815,Active
+H282,Sheffield,England,Yorkshire,105320,Local,5389,4215,539968,Active
+H283,London,England,South East,97048,Local,4521,3469,611942,Active
+H284,Edinburgh,Scotland,Scotland,297384,Central,11767,9362,375412,Maintenance
+H285,Manchester,England,North West,83162,Local,4789,4054,663040,Maintenance
+H286,Leicester,England,East Midlands,145899,Regional,6840,5727,763292,Maintenance
+H287,Liverpool,England,North West,143775,Regional,6681,4662,666082,Active
+H288,Sheffield,England,Yorkshire,171050,Regional,6400,5737,618527,Maintenance
+H289,London,England,South East,259640,Central,13883,10253,383836,Maintenance
+H290,Bristol,England,South West,195218,Central,12488,8139,296094,Maintenance
+H291,Edinburgh,Scotland,Scotland,234210,Central,12328,10631,405049,Maintenance
+H292,London,England,South East,90631,Local,4538,3197,482562,Active
+H293,Leicester,England,East Midlands,105986,Local,5795,4972,766113,Maintenance
+H294,Bristol,England,South West,140316,Regional,6662,5865,649867,Maintenance
+H295,Leeds,England,Yorkshire,160010,Regional,8848,5996,731997,Active
+H296,Bristol,England,South West,210671,Central,9701,6346,706285,Maintenance
+H297,Glasgow,Scotland,Scotland,115261,Local,4266,2920,343543,Active
+H298,Bristol,England,South West,86615,Local,3926,2968,592858,Active
+H299,Sheffield,England,Yorkshire,152724,Regional,8644,7418,868063,Active
+H300,Liverpool,England,North West,108542,Local,5812,4948,836161,Maintenance
+H301,Leeds,England,Yorkshire,103291,Local,4925,3435,777102,Maintenance
+H302,Birmingham,England,West Midlands,242039,Central,11924,7767,361508,Active
+H303,Liverpool,England,North West,177944,Regional,7261,5732,584004,Maintenance
+H304,Liverpool,England,North West,167401,Regional,8878,7550,877244,Maintenance
+H305,Birmingham,England,West Midlands,235093,Central,13057,8553,697003,Maintenance
+H306,Leicester,England,East Midlands,259872,Central,10891,7621,404259,Maintenance
+H307,Birmingham,England,West Midlands,123751,Regional,6989,4558,306155,Active
+H308,Glasgow,Scotland,Scotland,161115,Regional,8661,7279,414343,Maintenance
+H309,Edinburgh,Scotland,Scotland,289534,Central,10899,7936,464026,Active
+H310,Leicester,England,East Midlands,156685,Regional,7246,6080,841117,Maintenance
+H311,Edinburgh,Scotland,Scotland,257570,Central,12838,9203,357128,Active
+H312,London,England,South East,102071,Local,5635,3706,443577,Maintenance
+H313,Glasgow,Scotland,Scotland,198087,Central,13078,9222,353782,Maintenance
+H314,Edinburgh,Scotland,Scotland,219139,Central,13043,9400,593618,Maintenance
+H315,Edinburgh,Scotland,Scotland,143768,Regional,6104,5487,864236,Active
+H316,Manchester,England,North West,255260,Central,9836,6745,616833,Active
+H317,Edinburgh,Scotland,Scotland,104561,Local,5551,4302,392923,Active
+H318,Leeds,England,Yorkshire,123638,Regional,8064,6457,895453,Maintenance
+H319,Edinburgh,Scotland,Scotland,103655,Local,5223,4130,562199,Maintenance
+H320,Glasgow,Scotland,Scotland,92380,Local,4609,3429,560870,Active
+H321,Sheffield,England,Yorkshire,105410,Local,3963,3317,343153,Active
+H322,Liverpool,England,North West,230057,Central,9501,7192,301525,Active
+H323,London,England,South East,240975,Central,9394,7427,322973,Maintenance
+H324,Birmingham,England,West Midlands,130750,Regional,6482,5274,777796,Maintenance
+H325,Edinburgh,Scotland,Scotland,110213,Local,4291,2906,672355,Maintenance
+H326,Glasgow,Scotland,Scotland,233633,Central,13333,9792,537309,Active
+H327,Edinburgh,Scotland,Scotland,139236,Regional,7421,5555,335655,Active
+H328,Leicester,England,East Midlands,152687,Regional,6979,5354,823161,Active
+H329,Leeds,England,Yorkshire,137639,Regional,8522,5650,523923,Active
+H330,Bristol,England,South West,155573,Regional,6325,5253,846463,Maintenance
+H331,London,England,South East,192256,Central,10687,8407,358589,Active
+H332,Edinburgh,Scotland,Scotland,97031,Local,4480,3022,678191,Active
+H333,Birmingham,England,West Midlands,85668,Local,4434,3261,869793,Active
+H334,Leicester,England,East Midlands,180842,Central,14415,11369,875822,Maintenance
+H335,Glasgow,Scotland,Scotland,100966,Local,4667,3600,668504,Maintenance
+H336,Manchester,England,North West,236469,Central,9482,8156,578136,Maintenance
+H337,Liverpool,England,North West,167135,Regional,7762,6187,813000,Maintenance
+H338,Bristol,England,South West,89804,Local,5487,4339,823014,Maintenance
+H339,London,England,South East,172556,Regional,7972,6955,675638,Active
+H340,Liverpool,England,North West,152419,Regional,8597,6662,560067,Maintenance
+H341,Leeds,England,Yorkshire,106411,Local,5525,4667,829828,Maintenance
+H342,Bristol,England,South West,149163,Regional,6856,4929,413488,Active
+H343,Sheffield,England,Yorkshire,241533,Central,9890,8188,594007,Maintenance
+H344,Bristol,England,South West,172561,Regional,8145,5757,716649,Active
+H345,Manchester,England,North West,160095,Regional,8298,6120,657511,Active
+H346,Edinburgh,Scotland,Scotland,179274,Regional,8768,6482,458215,Active
+H347,Leicester,England,East Midlands,89861,Local,5971,4272,750019,Active
+H348,Edinburgh,Scotland,Scotland,242218,Central,13955,12256,603306,Maintenance
+H349,Sheffield,England,Yorkshire,127065,Regional,6802,5098,592758,Maintenance
+H350,Manchester,England,North West,109596,Local,5029,4476,875057,Active
+H351,London,England,South East,80049,Local,5431,3939,772784,Active
+H352,Manchester,England,North West,290391,Central,10046,7566,847859,Active
+H353,Glasgow,Scotland,Scotland,125051,Regional,6387,4410,889552,Maintenance
+H354,Glasgow,Scotland,Scotland,234204,Central,13462,10483,831869,Active
+H355,Edinburgh,Scotland,Scotland,297097,Central,10719,7188,890103,Maintenance
+H356,Leeds,England,Yorkshire,221367,Central,12935,8824,519869,Active
+H357,Bristol,England,South West,229150,Central,10690,9055,365741,Active
+H358,Manchester,England,North West,89840,Local,4522,3135,434552,Active
+H359,Leicester,England,East Midlands,142765,Regional,7838,5975,391806,Active
+H360,Manchester,England,North West,94146,Local,4236,2846,664392,Active
+H361,Manchester,England,North West,194723,Central,9102,7020,313311,Active
+H362,Glasgow,Scotland,Scotland,151244,Regional,8511,7141,652125,Active
+H363,Manchester,England,North West,209255,Central,9868,6999,886855,Active
+H364,Manchester,England,North West,289398,Central,11915,8593,755819,Maintenance
+H365,Sheffield,England,Yorkshire,167565,Regional,8088,6409,383400,Active
+H366,Bristol,England,South West,206009,Central,11298,7732,332760,Maintenance
+H367,Leeds,England,Yorkshire,291635,Central,12786,9440,508464,Maintenance
+H368,London,England,South East,154292,Regional,8166,5773,316630,Maintenance
+H369,Manchester,England,North West,87647,Local,5470,3664,535728,Maintenance
+H370,Bristol,England,South West,132291,Regional,7616,6406,389081,Maintenance
+H371,Birmingham,England,West Midlands,174269,Regional,6552,5850,486088,Active
+H372,Manchester,England,North West,191476,Central,12319,8606,840943,Maintenance
+H373,Sheffield,England,Yorkshire,262387,Central,13374,10478,591442,Active
+H374,Sheffield,England,Yorkshire,206687,Central,10289,6774,579701,Active
+H375,Sheffield,England,Yorkshire,180874,Central,9984,8965,668786,Maintenance
+H376,Leeds,England,Yorkshire,130532,Regional,7741,5709,609867,Maintenance
+H377,Liverpool,England,North West,107428,Local,4151,3004,529476,Active
+H378,London,England,South East,176365,Regional,6515,5004,756334,Maintenance
+H379,Glasgow,Scotland,Scotland,84376,Local,4691,4026,381408,Active
+H380,Edinburgh,Scotland,Scotland,253726,Central,13996,11287,627944,Maintenance
+H381,Glasgow,Scotland,Scotland,103634,Local,4489,4035,530796,Maintenance
+H382,Birmingham,England,West Midlands,188045,Central,11692,7891,861851,Maintenance
+H383,Edinburgh,Scotland,Scotland,114844,Local,5948,4763,642156,Maintenance
+H384,Sheffield,England,Yorkshire,160291,Regional,6458,4289,434801,Maintenance
+H385,Leicester,England,East Midlands,99033,Local,5311,4425,866473,Active
+H386,Sheffield,England,Yorkshire,112428,Local,5351,3780,578060,Maintenance
+H387,Sheffield,England,Yorkshire,151052,Regional,8428,6943,349822,Active
+H388,Edinburgh,Scotland,Scotland,128168,Regional,6863,5869,373719,Active
+H389,Birmingham,England,West Midlands,80562,Local,5435,4213,376456,Maintenance
+H390,Edinburgh,Scotland,Scotland,164683,Regional,6869,4471,869547,Active
+H391,Bristol,England,South West,242953,Central,10117,8696,549017,Maintenance
+H392,Manchester,England,North West,116602,Local,5642,4824,466219,Active
+H393,Glasgow,Scotland,Scotland,107378,Local,5253,3507,501882,Active
+H394,Leicester,England,East Midlands,141001,Regional,8746,5974,810083,Active
+H395,Manchester,England,North West,98218,Local,3966,3568,670072,Maintenance
+H396,Bristol,England,South West,153143,Regional,6314,4911,652439,Active
+H397,Edinburgh,Scotland,Scotland,232304,Central,12932,8850,492550,Maintenance
+H398,Leeds,England,Yorkshire,95294,Local,4017,2720,663052,Maintenance
+H399,Birmingham,England,West Midlands,118963,Local,4760,3199,896200,Active
+H400,Liverpool,England,North West,153423,Regional,8576,6416,685160,Active
+H401,Edinburgh,Scotland,Scotland,201989,Central,9953,7433,646182,Active
+H402,Bristol,England,South West,274811,Central,14302,12493,520460,Active
+H403,Sheffield,England,Yorkshire,214773,Central,9645,7469,404336,Active
+H404,Birmingham,England,West Midlands,270608,Central,13529,10810,798117,Active
+H405,Edinburgh,Scotland,Scotland,85468,Local,5694,4349,564275,Active
+H406,Leeds,England,Yorkshire,151145,Regional,7503,6624,742669,Active
+H407,Birmingham,England,West Midlands,174006,Regional,7496,6486,530964,Active
+H408,Leeds,England,Yorkshire,99842,Local,4106,3553,438610,Maintenance
+H409,Bristol,England,South West,84686,Local,3855,2619,882278,Active
+H410,Bristol,England,South West,225718,Central,11889,7799,619159,Active
+H411,Leicester,England,East Midlands,190768,Central,14497,11055,457221,Active
+H412,Leeds,England,Yorkshire,88466,Local,4222,2931,698775,Maintenance
+H413,Edinburgh,Scotland,Scotland,280303,Central,13069,9211,774862,Active
+H414,Leeds,England,Yorkshire,266405,Central,12589,10775,556244,Maintenance
+H415,Bristol,England,South West,121745,Regional,8773,7619,396716,Active
+H416,Glasgow,Scotland,Scotland,192961,Central,12812,8751,838318,Maintenance
+H417,Edinburgh,Scotland,Scotland,115079,Local,5669,4415,505677,Maintenance
+H418,Bristol,England,South West,88790,Local,4841,4326,842277,Active
+H419,Glasgow,Scotland,Scotland,91989,Local,5408,3813,362700,Maintenance
+H420,Liverpool,England,North West,107470,Local,5294,4443,754165,Active
+H421,Manchester,England,North West,81604,Local,4241,2773,884393,Active
+H422,Bristol,England,South West,134408,Regional,7739,6638,855309,Maintenance
+H423,Liverpool,England,North West,86153,Local,4187,3447,873868,Active
+H424,Birmingham,England,West Midlands,80462,Local,3824,2739,672672,Maintenance
+H425,Leicester,England,East Midlands,276902,Central,13366,10425,687883,Active
+H426,Manchester,England,North West,217067,Central,13517,10054,666770,Maintenance
+H427,Edinburgh,Scotland,Scotland,278115,Central,10520,9400,314909,Maintenance
+H428,Liverpool,England,North West,180328,Central,9937,8155,286205,Active
+H429,London,England,South East,178049,Regional,7736,5355,409254,Maintenance
+H430,Bristol,England,South West,261898,Central,10898,9310,339906,Maintenance
+H431,Bristol,England,South West,189870,Central,14076,12382,636186,Active
+H432,Bristol,England,South West,172651,Regional,8649,7311,384735,Active
+H433,Edinburgh,Scotland,Scotland,114165,Local,5355,3907,317087,Maintenance
+H434,Sheffield,England,Yorkshire,112179,Local,5718,4794,895043,Active
+H435,Glasgow,Scotland,Scotland,278372,Central,11080,9049,477995,Maintenance
+H436,Glasgow,Scotland,Scotland,107307,Local,4663,3037,645641,Active
+H437,Leicester,England,East Midlands,150987,Regional,8290,5446,424811,Active
+H438,Bristol,England,South West,250981,Central,11083,7262,893955,Active
+H439,Birmingham,England,West Midlands,193513,Central,14021,11109,772588,Maintenance
+H440,Leicester,England,East Midlands,190724,Central,10845,7718,337832,Active
+H441,Leicester,England,East Midlands,161339,Regional,8368,7365,375410,Active
+H442,Edinburgh,Scotland,Scotland,214060,Central,9480,6914,718504,Active
+H443,Leeds,England,Yorkshire,285069,Central,13588,10802,282550,Maintenance
+H444,Edinburgh,Scotland,Scotland,198060,Central,9674,8373,773246,Active
+H445,Bristol,England,South West,98554,Local,5060,4283,710518,Maintenance
+H446,Leicester,England,East Midlands,221026,Central,9396,6168,838443,Active
+H447,Leeds,England,Yorkshire,146980,Regional,8904,7010,596872,Maintenance
+H448,Manchester,England,North West,179419,Regional,6938,6024,303367,Maintenance
+H449,Birmingham,England,West Midlands,285940,Central,9683,6738,896845,Maintenance
+H450,Liverpool,England,North West,275161,Central,10889,9130,734897,Maintenance
+H451,Sheffield,England,Yorkshire,117899,Local,4651,3438,786184,Maintenance
+H452,Sheffield,England,Yorkshire,114490,Local,4751,3510,875489,Maintenance
+H453,Edinburgh,Scotland,Scotland,196278,Central,11026,8652,317463,Maintenance
+H454,Leeds,England,Yorkshire,83878,Local,4382,3536,370472,Active
+H455,Leeds,England,Yorkshire,199400,Central,12957,10324,622594,Maintenance
+H456,Sheffield,England,Yorkshire,172692,Regional,8157,6206,636571,Maintenance
+H457,Leeds,England,Yorkshire,174149,Regional,8983,6265,874635,Active
+H458,Glasgow,Scotland,Scotland,101298,Local,4492,3625,438388,Active
+H459,Leeds,England,Yorkshire,158588,Regional,8952,7252,865310,Maintenance
+H460,Leicester,England,East Midlands,160050,Regional,6793,4588,308212,Active
+H461,London,England,South East,237283,Central,14700,10735,596059,Maintenance
+H462,Glasgow,Scotland,Scotland,114183,Local,5501,4551,337530,Maintenance
+H463,Edinburgh,Scotland,Scotland,86012,Local,5397,3511,634864,Maintenance
+H464,London,England,South East,121051,Regional,7107,5775,378691,Active
+H465,Manchester,England,North West,115565,Local,3590,2709,840971,Active
+H466,Leeds,England,Yorkshire,162004,Regional,6695,4502,755249,Active
+H467,Leicester,England,East Midlands,292306,Central,11963,10030,419658,Maintenance
+H468,Leeds,England,Yorkshire,178613,Regional,6197,4210,833966,Active
+H469,London,England,South East,135979,Regional,7788,5304,821083,Active
+H470,Sheffield,England,Yorkshire,116376,Local,4235,2831,784316,Maintenance
+H471,Leicester,England,East Midlands,149583,Regional,7567,5444,566277,Active
+H472,Birmingham,England,West Midlands,87147,Local,5986,5207,322139,Maintenance
+H473,Bristol,England,South West,147340,Regional,7192,4785,373072,Active
+H474,Manchester,England,North West,92370,Local,3887,2595,384317,Active
+H475,Leicester,England,East Midlands,170152,Regional,6862,4602,534394,Maintenance
+H476,Edinburgh,Scotland,Scotland,82057,Local,3591,3016,743304,Maintenance
+H477,Manchester,England,North West,126844,Regional,7693,5842,588891,Active
+H478,Liverpool,England,North West,160185,Regional,6173,4390,311714,Maintenance
+H479,Leicester,England,East Midlands,152826,Regional,7272,6187,883627,Active
+H480,Leeds,England,Yorkshire,146023,Regional,7839,5177,382807,Active
+H481,Manchester,England,North West,220149,Central,9078,6373,586036,Active
+H482,Leeds,England,Yorkshire,152858,Regional,6594,5903,555228,Maintenance
+H483,Glasgow,Scotland,Scotland,111445,Local,4816,3255,871431,Active
+H484,London,England,South East,212009,Central,10607,7808,421900,Active
+H485,Birmingham,England,West Midlands,156470,Regional,6624,5496,428064,Active
+H486,Liverpool,England,North West,93314,Local,4949,3927,578306,Maintenance
+H487,Bristol,England,South West,145430,Regional,7521,5949,571404,Active
+H488,Sheffield,England,Yorkshire,106013,Local,4646,3627,293919,Active
+H489,Leicester,England,East Midlands,141975,Regional,6541,4386,713953,Maintenance
+H490,Glasgow,Scotland,Scotland,99565,Local,3633,3212,895082,Active
+H491,Edinburgh,Scotland,Scotland,106520,Local,3942,3489,863793,Maintenance
+H492,Bristol,England,South West,148178,Regional,7643,6757,445222,Active
+H493,London,England,South East,149421,Regional,6034,4421,651701,Maintenance
+H494,Edinburgh,Scotland,Scotland,101113,Local,4009,2945,324055,Maintenance
+H495,Edinburgh,Scotland,Scotland,156819,Regional,8447,6417,777746,Maintenance
+H496,Leeds,England,Yorkshire,220972,Central,13759,10677,378108,Active
+H497,Glasgow,Scotland,Scotland,119896,Local,5272,4464,625134,Active
+H498,Edinburgh,Scotland,Scotland,127970,Regional,7173,4804,725397,Maintenance
+H499,Edinburgh,Scotland,Scotland,174388,Regional,6152,4768,618685,Active
+H500,London,England,South East,215081,Central,13859,11258,478043,Maintenance

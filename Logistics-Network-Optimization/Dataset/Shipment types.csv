@@ -1,0 +1,801 @@
+Shipment_Type_ID,Cargo_Category,Cargo_Subcategory,Avg_Weight_kg,Avg_Volume_cbm,Handling_Cost,Risk_Level,Temperature_Control,SLA_Days
+SHP0001,FMCG,Packaged Food,980.06,3.35,318.2,Low,Yes,4
+SHP0002,Automotive,Tyres,1347.49,3.05,388.32,Medium,No,10
+SHP0003,Electronics,Mobile,983.66,8.01,442.12,High,No,14
+SHP0004,Electronics,TV,1229.17,10.51,337.43,Low,No,12
+SHP0005,Automotive,Batteries,21.56,4.51,370.98,Medium,Yes,11
+SHP0006,Electronics,Laptop,354.91,6.21,128.62,Medium,No,8
+SHP0007,Textiles,Footwear,279.55,8.78,123.46,High,Yes,5
+SHP0008,FMCG,Beverages,267.98,11.05,74.31,Low,Yes,4
+SHP0009,Electronics,Mobile,873.22,3.64,322.35,Medium,Yes,6
+SHP0010,FMCG,Beverages,410.3,11.29,422.09,Low,No,8
+SHP0011,Textiles,Clothing,840.34,1.73,36.48,Low,No,11
+SHP0012,Pharma,Medical Devices,882.95,7.63,244.83,High,Yes,9
+SHP0013,Pharma,Vaccines,1316.31,1.26,377.63,Medium,Yes,11
+SHP0014,Textiles,Footwear,1444.71,7.21,329.36,High,Yes,7
+SHP0015,Textiles,Home Fabrics,779.78,11.33,45.89,Low,No,6
+SHP0016,Automotive,Spare Parts,1008.96,11.06,206.85,High,Yes,4
+SHP0017,Pharma,Vaccines,363.36,2.95,228.65,High,Yes,2
+SHP0018,FMCG,Packaged Food,893.59,0.76,18.7,Low,Yes,3
+SHP0019,Pharma,Medical Devices,1058.27,10.5,306.69,Low,Yes,6
+SHP0020,Automotive,Spare Parts,134.28,11.3,33.12,Medium,No,14
+SHP0021,Electronics,Mobile,1096.99,8.04,351.93,Medium,Yes,2
+SHP0022,FMCG,Packaged Food,744.97,6.6,62.35,Medium,No,8
+SHP0023,Textiles,Clothing,510.97,1.61,5.54,High,No,5
+SHP0024,Textiles,Footwear,1334.59,5.33,416.79,Medium,Yes,10
+SHP0025,FMCG,Beverages,1144.86,8.39,176.2,Low,Yes,12
+SHP0026,Textiles,Clothing,359.69,5.04,406.78,Medium,Yes,11
+SHP0027,Electronics,TV,857.59,3.22,278.09,High,Yes,2
+SHP0028,Automotive,Batteries,4.75,1.73,467.88,High,Yes,8
+SHP0029,Electronics,TV,615.67,0.93,76.65,Medium,No,11
+SHP0030,Electronics,Accessories,127.91,2.98,299.54,High,No,14
+SHP0031,FMCG,Beverages,375.16,3.9,459.83,Low,Yes,7
+SHP0032,FMCG,Personal Care,1330.47,5.94,167.35,Low,Yes,14
+SHP0033,FMCG,Packaged Food,673.51,10.69,7.98,Low,No,6
+SHP0034,Pharma,Medicines,906.12,2.8,344.23,High,Yes,2
+SHP0035,Electronics,Mobile,1376.3,10.96,316.65,High,Yes,9
+SHP0036,Pharma,Medical Devices,987.5,11.98,117.21,Low,Yes,9
+SHP0037,Electronics,Mobile,687.43,10.69,255.75,Low,Yes,2
+SHP0038,FMCG,Packaged Food,87.05,0.98,361.31,Medium,Yes,6
+SHP0039,Pharma,Vaccines,256.85,3.55,376.07,High,No,8
+SHP0040,Electronics,Laptop,1265.11,4.95,206.82,Medium,No,5
+SHP0041,Automotive,Tyres,68.5,0.77,83.33,High,Yes,4
+SHP0042,Textiles,Home Fabrics,144.32,9.79,187.11,High,Yes,2
+SHP0043,Automotive,Spare Parts,1300.11,1.15,37.75,Low,Yes,8
+SHP0044,Electronics,Laptop,813.71,4.79,343.81,Low,Yes,12
+SHP0045,Pharma,Medicines,706.34,11.12,23.39,High,No,7
+SHP0046,Automotive,Batteries,221.0,11.52,486.93,Low,No,5
+SHP0047,FMCG,Packaged Food,1311.09,3.02,160.03,Low,No,5
+SHP0048,Pharma,Vaccines,727.66,2.83,288.89,Low,Yes,1
+SHP0049,Pharma,Vaccines,937.04,10.92,166.71,Medium,No,5
+SHP0050,Textiles,Clothing,799.75,3.01,478.35,Medium,Yes,11
+SHP0051,Textiles,Clothing,259.57,11.69,320.77,High,Yes,7
+SHP0052,Automotive,Batteries,1441.53,0.98,311.77,High,Yes,4
+SHP0053,Electronics,TV,501.96,4.56,143.8,Medium,No,8
+SHP0054,Textiles,Clothing,349.07,10.94,246.29,Low,No,3
+SHP0055,FMCG,Beverages,1407.7,9.92,282.45,Low,No,14
+SHP0056,Textiles,Home Fabrics,58.39,5.63,171.98,Low,No,5
+SHP0057,Textiles,Footwear,1479.48,1.84,62.7,Medium,No,11
+SHP0058,FMCG,Personal Care,1076.96,11.8,448.59,High,No,7
+SHP0059,Textiles,Footwear,880.48,3.68,88.19,High,Yes,14
+SHP0060,Pharma,Vaccines,1488.81,2.13,21.61,Medium,No,13
+SHP0061,Pharma,Medicines,692.2,0.9,9.73,High,Yes,14
+SHP0062,Pharma,Vaccines,348.21,5.42,182.12,High,No,5
+SHP0063,Automotive,Tyres,735.13,5.93,19.59,Low,No,8
+SHP0064,Textiles,Footwear,1376.45,8.74,388.8,High,No,5
+SHP0065,Textiles,Footwear,1344.39,5.13,135.12,Medium,Yes,11
+SHP0066,Textiles,Clothing,162.32,2.56,476.04,Medium,Yes,3
+SHP0067,Automotive,Batteries,469.27,4.02,155.12,High,No,3
+SHP0068,Pharma,Medical Devices,1263.33,2.57,396.98,High,Yes,7
+SHP0069,Automotive,Batteries,502.79,0.04,292.57,Low,Yes,7
+SHP0070,Pharma,Vaccines,494.08,3.9,393.4,Low,No,11
+SHP0071,Textiles,Footwear,120.4,1.43,426.53,Low,No,5
+SHP0072,Pharma,Vaccines,149.2,9.42,473.15,High,Yes,14
+SHP0073,Automotive,Tyres,1141.0,2.11,202.63,Low,No,9
+SHP0074,Electronics,Mobile,1406.25,7.75,399.33,Medium,Yes,1
+SHP0075,FMCG,Beverages,1336.15,4.8,230.82,Low,No,7
+SHP0076,Automotive,Tyres,1056.41,0.53,71.71,High,Yes,6
+SHP0077,Pharma,Medicines,902.93,7.19,83.36,Low,Yes,8
+SHP0078,FMCG,Personal Care,680.1,3.04,98.79,Medium,No,7
+SHP0079,Textiles,Home Fabrics,484.93,6.32,251.12,Medium,No,4
+SHP0080,FMCG,Beverages,1022.65,3.92,472.93,High,No,9
+SHP0081,Textiles,Clothing,714.74,7.84,148.09,Low,Yes,1
+SHP0082,Textiles,Footwear,890.72,0.43,124.02,Medium,Yes,1
+SHP0083,Textiles,Clothing,865.18,0.37,29.48,Medium,Yes,4
+SHP0084,Electronics,Mobile,739.27,7.15,46.11,Low,No,9
+SHP0085,FMCG,Personal Care,756.06,2.4,208.68,Medium,No,4
+SHP0086,Electronics,Laptop,868.11,1.66,229.14,Low,Yes,11
+SHP0087,Electronics,TV,74.21,3.86,477.32,Low,Yes,9
+SHP0088,Electronics,Accessories,287.07,9.14,283.61,Low,No,1
+SHP0089,FMCG,Beverages,1075.64,3.74,261.12,Medium,Yes,14
+SHP0090,Pharma,Vaccines,785.04,1.34,310.59,Low,Yes,13
+SHP0091,FMCG,Packaged Food,1238.73,1.48,5.97,Medium,Yes,14
+SHP0092,Textiles,Footwear,827.67,8.23,119.61,Medium,No,11
+SHP0093,Automotive,Tyres,585.21,6.96,491.47,Low,No,6
+SHP0094,Textiles,Clothing,1122.0,3.75,157.44,Medium,No,13
+SHP0095,Pharma,Medical Devices,453.71,3.53,346.97,High,Yes,12
+SHP0096,Textiles,Clothing,156.12,0.63,424.56,Low,Yes,8
+SHP0097,Pharma,Vaccines,1448.94,3.36,423.64,High,No,3
+SHP0098,Automotive,Tyres,1339.97,4.97,395.37,Low,No,12
+SHP0099,Textiles,Home Fabrics,958.0,8.24,33.19,Medium,No,5
+SHP0100,Automotive,Tyres,331.72,7.23,340.28,Medium,No,11
+SHP0101,Pharma,Medical Devices,1312.57,9.47,86.14,Low,No,14
+SHP0102,Pharma,Medical Devices,1180.33,2.87,304.24,Low,Yes,8
+SHP0103,Automotive,Batteries,34.8,3.14,291.6,Medium,No,12
+SHP0104,Automotive,Tyres,192.38,2.85,355.5,Medium,Yes,5
+SHP0105,Textiles,Home Fabrics,507.43,2.2,75.55,High,No,13
+SHP0106,Electronics,TV,647.48,3.2,263.04,Low,No,1
+SHP0107,Pharma,Medical Devices,882.2,1.47,119.63,Medium,No,3
+SHP0108,Automotive,Batteries,756.68,5.66,123.89,High,No,13
+SHP0109,Textiles,Clothing,95.68,10.99,410.63,High,No,4
+SHP0110,Pharma,Vaccines,947.38,6.81,493.12,Low,Yes,10
+SHP0111,FMCG,Personal Care,626.37,1.37,350.19,Medium,Yes,4
+SHP0112,FMCG,Packaged Food,593.69,9.81,449.57,Medium,No,1
+SHP0113,Pharma,Medical Devices,1161.25,1.29,342.1,Medium,No,12
+SHP0114,FMCG,Packaged Food,244.54,5.67,189.16,High,Yes,11
+SHP0115,FMCG,Packaged Food,1001.19,3.94,271.27,High,Yes,1
+SHP0116,FMCG,Beverages,1052.58,5.1,187.93,Medium,Yes,13
+SHP0117,Electronics,Accessories,1481.06,0.7,210.95,Low,Yes,12
+SHP0118,FMCG,Personal Care,1132.95,9.42,60.03,Low,No,8
+SHP0119,Textiles,Home Fabrics,897.44,0.28,206.26,Medium,Yes,4
+SHP0120,Electronics,Accessories,942.97,6.84,405.1,Low,Yes,7
+SHP0121,Electronics,Mobile,402.22,0.6,452.55,Low,No,8
+SHP0122,FMCG,Beverages,1151.4,6.78,420.0,Low,No,5
+SHP0123,FMCG,Personal Care,1316.62,5.36,154.4,Low,Yes,8
+SHP0124,Pharma,Vaccines,1073.78,9.87,144.34,Medium,No,4
+SHP0125,Pharma,Vaccines,249.42,10.53,498.82,Low,No,4
+SHP0126,FMCG,Beverages,979.7,1.22,444.01,Low,No,3
+SHP0127,Automotive,Batteries,696.45,4.19,130.31,Medium,Yes,3
+SHP0128,FMCG,Beverages,937.83,3.1,231.94,High,Yes,11
+SHP0129,FMCG,Beverages,998.55,7.28,14.76,High,Yes,14
+SHP0130,FMCG,Packaged Food,671.89,10.62,8.19,High,Yes,12
+SHP0131,FMCG,Packaged Food,1494.28,4.39,92.88,Low,No,6
+SHP0132,Textiles,Clothing,1341.02,6.62,425.16,Medium,No,8
+SHP0133,Electronics,Laptop,207.28,0.04,483.27,Medium,Yes,5
+SHP0134,Electronics,Laptop,868.83,4.87,55.68,Medium,No,12
+SHP0135,Automotive,Tyres,762.33,9.46,281.37,Low,No,11
+SHP0136,Pharma,Medicines,651.85,2.64,18.79,Low,No,3
+SHP0137,Textiles,Clothing,771.4,8.43,110.55,Low,No,8
+SHP0138,Pharma,Medicines,115.22,2.22,58.74,Medium,Yes,12
+SHP0139,Textiles,Clothing,458.99,6.24,161.93,Medium,Yes,1
+SHP0140,FMCG,Personal Care,582.35,4.88,159.97,Low,No,9
+SHP0141,Electronics,Accessories,747.64,9.08,381.23,High,No,5
+SHP0142,Automotive,Tyres,370.09,3.46,71.94,Medium,Yes,2
+SHP0143,Electronics,Mobile,1276.76,3.1,407.95,Medium,Yes,9
+SHP0144,Electronics,Mobile,464.15,0.58,175.66,Low,Yes,11
+SHP0145,Pharma,Medical Devices,978.3,2.6,293.42,Low,No,4
+SHP0146,Electronics,TV,1289.48,6.46,117.92,Medium,No,5
+SHP0147,Automotive,Batteries,1059.82,1.74,316.88,Low,No,11
+SHP0148,Pharma,Medical Devices,686.46,1.52,129.99,Low,No,12
+SHP0149,Pharma,Medical Devices,1436.61,5.95,28.54,High,Yes,5
+SHP0150,Electronics,Laptop,824.17,6.88,38.85,Medium,Yes,9
+SHP0151,Pharma,Medicines,170.33,4.8,269.21,High,No,10
+SHP0152,Automotive,Spare Parts,94.95,6.7,302.63,Low,Yes,2
+SHP0153,Automotive,Spare Parts,1102.86,6.41,208.71,Low,No,6
+SHP0154,Textiles,Clothing,5.98,11.25,495.4,Medium,Yes,5
+SHP0155,Textiles,Clothing,1338.57,6.75,79.4,Low,No,3
+SHP0156,Automotive,Spare Parts,1390.73,7.13,79.82,High,Yes,8
+SHP0157,Electronics,Accessories,906.11,5.73,447.31,High,Yes,4
+SHP0158,Pharma,Medicines,262.3,1.08,442.94,High,No,12
+SHP0159,FMCG,Beverages,709.32,4.93,481.6,Medium,Yes,10
+SHP0160,Pharma,Vaccines,90.02,1.95,88.72,Medium,Yes,9
+SHP0161,Automotive,Tyres,83.61,4.23,168.26,Medium,Yes,9
+SHP0162,Electronics,Accessories,1063.44,10.89,217.79,High,No,9
+SHP0163,Electronics,TV,1067.75,1.42,246.95,Medium,No,3
+SHP0164,Electronics,TV,921.01,6.69,464.84,Medium,Yes,4
+SHP0165,Pharma,Medical Devices,690.85,10.12,334.21,Low,Yes,2
+SHP0166,Electronics,Laptop,1127.42,6.03,146.62,High,No,1
+SHP0167,Automotive,Batteries,1095.78,0.2,301.44,Low,Yes,3
+SHP0168,FMCG,Personal Care,1374.38,4.1,120.96,Medium,No,5
+SHP0169,Electronics,Laptop,265.08,5.34,146.77,Low,No,13
+SHP0170,FMCG,Personal Care,1165.81,0.95,194.36,Low,Yes,13
+SHP0171,Electronics,Mobile,19.77,3.94,370.67,High,No,2
+SHP0172,Electronics,TV,380.68,3.98,56.59,Low,No,1
+SHP0173,Textiles,Home Fabrics,755.64,2.45,232.94,Low,Yes,6
+SHP0174,Textiles,Footwear,108.5,2.82,256.99,High,Yes,1
+SHP0175,Textiles,Clothing,922.93,8.66,146.29,High,Yes,5
+SHP0176,FMCG,Packaged Food,341.67,4.02,288.39,High,No,9
+SHP0177,Textiles,Footwear,998.19,9.15,116.26,Low,Yes,9
+SHP0178,Textiles,Clothing,785.17,4.39,47.25,Low,No,4
+SHP0179,Pharma,Medical Devices,1253.07,0.09,96.81,Low,No,7
+SHP0180,Textiles,Footwear,1135.83,6.66,130.15,Medium,Yes,5
+SHP0181,Pharma,Vaccines,189.39,5.48,236.13,Low,Yes,4
+SHP0182,Textiles,Home Fabrics,956.65,9.75,155.05,Medium,No,2
+SHP0183,Automotive,Tyres,341.89,4.41,407.35,Low,No,7
+SHP0184,Pharma,Vaccines,988.13,1.5,320.34,High,Yes,3
+SHP0185,Textiles,Clothing,511.81,10.42,261.13,Medium,No,8
+SHP0186,Pharma,Vaccines,576.83,4.97,170.34,Medium,Yes,14
+SHP0187,FMCG,Personal Care,250.97,4.83,86.18,High,No,6
+SHP0188,Electronics,Mobile,1492.97,0.8,359.19,Low,Yes,10
+SHP0189,Pharma,Medicines,61.02,2.21,220.63,Low,Yes,3
+SHP0190,Textiles,Home Fabrics,737.9,7.19,488.69,Medium,Yes,1
+SHP0191,Electronics,Accessories,1081.9,6.67,124.92,Medium,Yes,14
+SHP0192,FMCG,Beverages,587.51,11.43,86.34,High,Yes,7
+SHP0193,Electronics,Mobile,839.17,5.77,56.06,Medium,Yes,11
+SHP0194,Pharma,Medical Devices,1289.57,9.52,300.26,Medium,Yes,12
+SHP0195,Pharma,Medical Devices,1197.66,11.56,296.18,High,Yes,14
+SHP0196,Textiles,Home Fabrics,1321.73,6.68,316.33,High,Yes,7
+SHP0197,FMCG,Packaged Food,1265.19,0.94,117.58,High,No,10
+SHP0198,Pharma,Medical Devices,36.6,8.71,478.31,Medium,Yes,4
+SHP0199,Textiles,Clothing,1254.07,0.79,243.02,Medium,Yes,14
+SHP0200,FMCG,Personal Care,913.81,11.78,41.75,Low,No,13
+SHP0201,Pharma,Medical Devices,1244.92,4.64,235.2,Medium,Yes,11
+SHP0202,Pharma,Vaccines,309.9,3.04,134.48,High,No,7
+SHP0203,Automotive,Batteries,80.47,6.6,74.98,Low,Yes,14
+SHP0204,Electronics,Mobile,62.21,2.61,230.68,Medium,Yes,7
+SHP0205,Pharma,Vaccines,713.45,3.98,109.24,High,No,5
+SHP0206,Textiles,Footwear,1205.44,10.87,16.95,Low,Yes,10
+SHP0207,Electronics,Laptop,351.39,8.31,372.94,High,Yes,3
+SHP0208,Pharma,Medicines,1299.39,8.63,390.07,Medium,Yes,6
+SHP0209,Pharma,Medical Devices,777.72,6.45,246.95,High,No,6
+SHP0210,Electronics,TV,1335.2,9.93,52.5,Medium,Yes,14
+SHP0211,Textiles,Home Fabrics,1171.38,1.34,450.06,High,Yes,8
+SHP0212,Electronics,Mobile,916.32,10.47,498.59,High,No,13
+SHP0213,Electronics,Laptop,1397.46,0.34,196.35,Medium,No,7
+SHP0214,Automotive,Spare Parts,215.66,6.65,355.17,Low,No,2
+SHP0215,Pharma,Medicines,989.75,0.08,246.83,Medium,Yes,4
+SHP0216,Electronics,TV,434.49,8.4,33.87,High,Yes,14
+SHP0217,Automotive,Tyres,207.33,6.17,441.85,High,No,3
+SHP0218,Textiles,Clothing,337.51,2.75,434.8,Low,Yes,4
+SHP0219,Textiles,Clothing,1177.96,7.08,162.23,Medium,Yes,7
+SHP0220,Automotive,Tyres,264.59,11.46,32.25,Low,No,12
+SHP0221,Electronics,Accessories,409.53,8.16,45.4,Low,Yes,4
+SHP0222,Textiles,Home Fabrics,567.03,2.37,143.12,Low,No,8
+SHP0223,Electronics,Accessories,137.81,10.91,481.61,Medium,Yes,4
+SHP0224,FMCG,Beverages,824.19,2.48,300.06,Low,Yes,12
+SHP0225,Automotive,Tyres,137.69,3.62,326.95,Medium,No,4
+SHP0226,Automotive,Batteries,1293.86,9.3,360.45,High,No,1
+SHP0227,FMCG,Personal Care,429.94,2.91,118.19,Medium,Yes,5
+SHP0228,FMCG,Beverages,1131.21,11.52,192.84,High,No,5
+SHP0229,FMCG,Beverages,970.24,11.72,129.42,Low,Yes,2
+SHP0230,FMCG,Packaged Food,915.58,0.84,72.56,Low,No,6
+SHP0231,Textiles,Clothing,1.96,11.3,254.03,High,Yes,6
+SHP0232,Pharma,Vaccines,441.02,9.49,51.96,High,Yes,7
+SHP0233,Electronics,Accessories,1366.8,2.33,417.22,High,No,11
+SHP0234,Pharma,Vaccines,746.71,0.14,453.31,Medium,No,10
+SHP0235,Textiles,Home Fabrics,70.72,9.08,334.46,Medium,No,3
+SHP0236,FMCG,Beverages,288.95,11.43,375.79,Low,No,11
+SHP0237,FMCG,Personal Care,988.82,7.0,412.12,High,Yes,11
+SHP0238,Automotive,Batteries,641.71,7.07,308.41,Low,No,7
+SHP0239,Electronics,Laptop,210.53,6.89,207.06,Low,Yes,7
+SHP0240,Automotive,Spare Parts,490.05,4.9,475.52,High,Yes,6
+SHP0241,Pharma,Medicines,1197.59,9.14,178.39,Medium,No,10
+SHP0242,Automotive,Spare Parts,1033.44,2.24,357.69,Low,No,5
+SHP0243,Pharma,Vaccines,774.34,7.13,385.52,Medium,Yes,12
+SHP0244,Textiles,Home Fabrics,96.9,7.25,29.48,Medium,No,8
+SHP0245,Automotive,Tyres,921.47,6.99,202.47,High,Yes,9
+SHP0246,Pharma,Medicines,484.31,6.34,341.71,High,Yes,6
+SHP0247,FMCG,Packaged Food,662.87,2.73,273.84,Low,Yes,6
+SHP0248,Pharma,Medicines,752.88,8.88,484.71,High,Yes,7
+SHP0249,Pharma,Medicines,574.09,6.5,429.04,High,Yes,6
+SHP0250,Pharma,Vaccines,346.45,2.13,295.33,Low,Yes,14
+SHP0251,Textiles,Home Fabrics,112.71,4.85,64.31,Medium,Yes,13
+SHP0252,Pharma,Medicines,964.65,5.55,430.62,High,No,3
+SHP0253,Textiles,Footwear,827.97,1.4,468.34,High,No,10
+SHP0254,Pharma,Vaccines,1320.21,0.13,382.5,High,No,8
+SHP0255,Electronics,TV,633.73,10.25,73.82,Low,Yes,14
+SHP0256,Pharma,Vaccines,1156.37,9.79,67.18,Medium,No,7
+SHP0257,Textiles,Home Fabrics,495.71,9.18,434.63,Medium,No,1
+SHP0258,Pharma,Medicines,199.11,10.5,206.68,High,Yes,4
+SHP0259,Automotive,Spare Parts,491.01,9.06,370.49,Low,No,9
+SHP0260,Pharma,Vaccines,678.74,2.15,417.02,High,Yes,11
+SHP0261,FMCG,Beverages,1022.66,8.52,305.47,Medium,Yes,4
+SHP0262,Pharma,Vaccines,547.19,9.79,34.52,Low,Yes,13
+SHP0263,FMCG,Beverages,1103.95,1.7,246.44,High,Yes,7
+SHP0264,Automotive,Tyres,65.67,7.01,327.7,Medium,Yes,8
+SHP0265,Pharma,Medical Devices,627.18,11.8,425.99,Low,No,10
+SHP0266,Electronics,Mobile,88.73,5.41,139.39,Low,No,11
+SHP0267,Automotive,Spare Parts,281.53,3.31,400.69,Low,Yes,7
+SHP0268,Electronics,Mobile,733.9,6.9,252.23,Low,Yes,3
+SHP0269,Textiles,Footwear,1404.9,9.33,103.38,Low,No,13
+SHP0270,Electronics,Mobile,54.87,3.53,143.05,Low,Yes,5
+SHP0271,Electronics,Accessories,925.21,4.69,264.65,High,No,7
+SHP0272,FMCG,Personal Care,1277.57,6.14,418.74,Low,Yes,6
+SHP0273,FMCG,Beverages,342.38,3.12,401.03,High,Yes,8
+SHP0274,Automotive,Tyres,1345.18,2.0,479.14,Medium,No,2
+SHP0275,FMCG,Packaged Food,1348.34,11.45,335.14,Low,No,8
+SHP0276,Textiles,Footwear,1112.9,4.09,52.06,Low,No,10
+SHP0277,Automotive,Spare Parts,536.98,1.15,494.61,Medium,Yes,6
+SHP0278,Automotive,Spare Parts,762.68,0.77,407.64,High,No,10
+SHP0279,Electronics,Mobile,482.04,8.9,381.47,Medium,Yes,12
+SHP0280,Textiles,Clothing,643.02,7.98,351.42,Medium,Yes,6
+SHP0281,FMCG,Personal Care,448.6,0.19,326.29,Medium,Yes,7
+SHP0282,Pharma,Vaccines,685.09,7.76,342.86,Low,No,7
+SHP0283,Automotive,Batteries,850.78,3.68,211.81,Low,Yes,2
+SHP0284,FMCG,Packaged Food,1002.65,11.52,28.15,High,Yes,1
+SHP0285,Electronics,Laptop,1135.54,8.96,254.03,Low,Yes,6
+SHP0286,Textiles,Home Fabrics,860.28,5.24,189.93,Low,Yes,11
+SHP0287,Automotive,Batteries,1224.53,2.64,306.59,Low,Yes,12
+SHP0288,Textiles,Clothing,153.53,1.25,115.21,Medium,Yes,5
+SHP0289,Pharma,Medical Devices,253.78,4.13,424.75,Low,No,4
+SHP0290,Pharma,Vaccines,830.7,0.84,28.09,Medium,Yes,10
+SHP0291,Electronics,Laptop,595.74,2.71,97.33,Low,Yes,2
+SHP0292,FMCG,Personal Care,637.13,11.22,297.54,Low,No,3
+SHP0293,Electronics,Mobile,935.65,7.24,337.84,Medium,No,1
+SHP0294,Electronics,TV,293.33,2.81,470.18,Low,No,5
+SHP0295,Pharma,Medical Devices,146.12,7.55,367.82,Medium,No,7
+SHP0296,Textiles,Clothing,190.48,7.63,230.78,High,No,13
+SHP0297,Electronics,TV,267.56,9.94,222.52,Low,Yes,4
+SHP0298,Pharma,Medical Devices,1063.15,3.02,93.81,Low,Yes,2
+SHP0299,Textiles,Home Fabrics,1348.38,2.94,160.92,Low,No,4
+SHP0300,Automotive,Batteries,696.52,6.46,142.17,Medium,Yes,8
+SHP0301,Electronics,Accessories,1253.81,7.89,249.62,Low,No,6
+SHP0302,FMCG,Packaged Food,1244.5,4.8,443.4,Medium,No,7
+SHP0303,Automotive,Tyres,400.78,4.37,471.9,Medium,Yes,14
+SHP0304,Textiles,Home Fabrics,301.28,6.7,287.13,High,No,12
+SHP0305,Electronics,TV,1230.75,5.03,332.38,High,No,4
+SHP0306,Textiles,Home Fabrics,262.61,7.66,97.71,Low,Yes,2
+SHP0307,Pharma,Vaccines,1420.07,8.15,186.59,Medium,Yes,13
+SHP0308,Automotive,Tyres,983.09,3.44,33.5,Medium,Yes,12
+SHP0309,FMCG,Beverages,79.38,0.94,18.59,Low,No,9
+SHP0310,Electronics,Mobile,623.25,4.32,230.19,Low,No,8
+SHP0311,Automotive,Spare Parts,728.9,2.46,105.4,Medium,No,10
+SHP0312,Automotive,Tyres,893.47,9.69,498.94,Low,No,11
+SHP0313,FMCG,Personal Care,242.51,8.19,242.37,High,No,13
+SHP0314,Pharma,Medicines,340.06,0.87,252.48,Medium,Yes,11
+SHP0315,Electronics,Accessories,1069.1,1.79,122.78,Low,No,4
+SHP0316,Pharma,Medical Devices,1067.34,4.16,30.73,Medium,No,9
+SHP0317,FMCG,Personal Care,885.52,1.65,144.28,High,Yes,1
+SHP0318,FMCG,Beverages,318.66,0.77,143.06,High,No,14
+SHP0319,FMCG,Packaged Food,362.93,2.2,216.27,Low,No,7
+SHP0320,Pharma,Medicines,5.93,1.6,402.32,Medium,Yes,4
+SHP0321,FMCG,Beverages,576.95,9.04,49.08,Low,Yes,10
+SHP0322,Automotive,Batteries,1217.46,5.54,377.46,High,Yes,7
+SHP0323,Automotive,Spare Parts,340.4,2.64,399.23,Medium,No,4
+SHP0324,Automotive,Tyres,1104.67,5.85,412.24,High,No,7
+SHP0325,Automotive,Tyres,1325.91,4.1,353.99,Low,Yes,4
+SHP0326,Pharma,Medicines,505.58,2.21,430.84,High,No,11
+SHP0327,Pharma,Medical Devices,102.1,8.73,198.37,Medium,No,5
+SHP0328,FMCG,Packaged Food,722.72,10.68,313.66,Low,Yes,5
+SHP0329,Pharma,Medical Devices,493.8,2.9,5.56,High,No,1
+SHP0330,Automotive,Batteries,871.37,4.04,228.59,Low,No,13
+SHP0331,Automotive,Spare Parts,114.29,11.64,462.37,Medium,No,7
+SHP0332,Pharma,Medicines,624.96,7.3,111.88,High,Yes,11
+SHP0333,Textiles,Clothing,745.22,4.24,493.25,Low,No,7
+SHP0334,Textiles,Footwear,231.02,6.09,275.53,High,No,7
+SHP0335,Pharma,Medical Devices,66.02,8.59,327.82,Low,Yes,13
+SHP0336,Electronics,TV,720.73,9.81,361.2,High,No,11
+SHP0337,Automotive,Batteries,1404.65,8.32,269.26,High,Yes,3
+SHP0338,Electronics,Mobile,623.11,6.55,60.81,Medium,Yes,5
+SHP0339,Pharma,Medical Devices,1447.63,2.06,481.15,Medium,No,5
+SHP0340,Pharma,Medical Devices,864.91,1.89,150.82,Low,Yes,8
+SHP0341,Automotive,Batteries,1499.21,5.54,406.25,Low,No,10
+SHP0342,FMCG,Personal Care,1425.73,2.74,122.14,Medium,Yes,5
+SHP0343,Textiles,Clothing,249.8,7.01,412.69,High,No,8
+SHP0344,Electronics,TV,182.59,0.39,159.53,High,No,4
+SHP0345,Automotive,Tyres,1132.48,9.38,449.23,Medium,Yes,13
+SHP0346,Textiles,Clothing,993.08,5.58,431.33,Low,Yes,13
+SHP0347,Textiles,Footwear,795.15,5.66,6.72,High,No,9
+SHP0348,Pharma,Vaccines,273.13,11.59,333.97,High,Yes,10
+SHP0349,Pharma,Medical Devices,1484.55,3.55,488.38,High,No,9
+SHP0350,Electronics,Accessories,816.8,11.85,386.66,High,No,6
+SHP0351,Textiles,Footwear,555.57,9.92,89.25,High,No,6
+SHP0352,Textiles,Home Fabrics,287.24,6.88,484.43,Medium,No,6
+SHP0353,Textiles,Home Fabrics,1034.84,0.16,203.7,High,No,1
+SHP0354,Automotive,Tyres,221.54,3.98,217.36,High,No,14
+SHP0355,Electronics,TV,103.25,4.42,310.32,Low,Yes,2
+SHP0356,Electronics,Laptop,608.02,4.97,327.3,Medium,Yes,10
+SHP0357,FMCG,Packaged Food,77.35,1.92,74.6,Low,Yes,7
+SHP0358,Textiles,Clothing,621.33,5.35,179.79,High,Yes,14
+SHP0359,FMCG,Personal Care,120.27,9.31,134.72,Low,Yes,9
+SHP0360,Automotive,Spare Parts,623.25,6.97,14.69,Medium,Yes,11
+SHP0361,Textiles,Footwear,274.8,3.58,45.16,Medium,Yes,13
+SHP0362,Electronics,TV,136.1,7.26,417.7,Medium,Yes,10
+SHP0363,Pharma,Medicines,228.19,4.98,186.6,Medium,No,11
+SHP0364,Textiles,Footwear,555.94,4.15,458.09,Low,Yes,7
+SHP0365,FMCG,Beverages,574.36,2.32,402.65,High,Yes,1
+SHP0366,Pharma,Medical Devices,882.05,11.69,164.18,High,Yes,7
+SHP0367,Pharma,Vaccines,1235.68,7.39,29.94,Low,Yes,12
+SHP0368,Automotive,Tyres,1159.56,5.61,380.82,Low,No,13
+SHP0369,Textiles,Home Fabrics,1282.31,10.5,437.92,Low,No,4
+SHP0370,Electronics,Accessories,1043.04,3.67,130.47,Low,No,8
+SHP0371,Automotive,Spare Parts,337.25,11.17,349.01,High,No,1
+SHP0372,Pharma,Medical Devices,492.34,8.22,237.59,High,Yes,14
+SHP0373,Pharma,Medicines,92.2,7.13,441.19,Low,Yes,13
+SHP0374,Automotive,Spare Parts,1153.76,10.26,451.03,Medium,No,9
+SHP0375,Automotive,Tyres,1464.4,2.44,265.09,High,No,1
+SHP0376,FMCG,Packaged Food,1129.68,10.86,403.27,High,Yes,12
+SHP0377,Textiles,Home Fabrics,1347.42,4.01,189.18,Medium,No,11
+SHP0378,Automotive,Batteries,510.01,6.35,95.76,High,Yes,6
+SHP0379,Electronics,Accessories,769.11,10.68,233.22,Low,No,4
+SHP0380,Textiles,Home Fabrics,869.49,3.74,407.28,High,No,7
+SHP0381,FMCG,Personal Care,1201.33,5.86,429.69,Medium,Yes,10
+SHP0382,Automotive,Tyres,951.43,9.86,434.81,High,Yes,9
+SHP0383,Textiles,Footwear,1091.38,8.68,27.34,Low,No,10
+SHP0384,Automotive,Tyres,54.3,9.69,208.61,High,Yes,2
+SHP0385,Electronics,Laptop,1217.55,4.6,182.35,High,No,4
+SHP0386,Pharma,Vaccines,337.16,7.03,215.04,High,No,5
+SHP0387,Textiles,Home Fabrics,428.14,8.07,116.33,Low,Yes,11
+SHP0388,Automotive,Batteries,938.71,1.5,261.66,High,Yes,12
+SHP0389,FMCG,Packaged Food,1444.94,4.45,268.01,High,Yes,10
+SHP0390,Electronics,Laptop,1352.9,9.13,486.05,High,No,4
+SHP0391,Automotive,Batteries,1198.61,5.12,390.09,Medium,No,12
+SHP0392,FMCG,Packaged Food,995.37,1.98,430.65,Low,No,12
+SHP0393,Pharma,Medical Devices,946.47,11.77,447.69,High,Yes,7
+SHP0394,Automotive,Spare Parts,1133.93,3.63,405.09,Low,No,10
+SHP0395,Textiles,Home Fabrics,1230.6,1.01,202.61,High,No,8
+SHP0396,Textiles,Clothing,654.87,2.65,6.74,Medium,Yes,1
+SHP0397,FMCG,Packaged Food,40.06,9.78,180.28,High,No,11
+SHP0398,Pharma,Vaccines,229.77,0.07,291.13,High,No,10
+SHP0399,FMCG,Beverages,63.5,6.33,259.14,Medium,No,5
+SHP0400,Textiles,Footwear,74.24,7.35,152.05,Medium,No,13
+SHP0401,FMCG,Packaged Food,1275.57,2.14,496.06,High,Yes,7
+SHP0402,Electronics,TV,1298.85,10.0,355.72,High,No,11
+SHP0403,Pharma,Medicines,1454.25,8.2,310.29,Low,No,2
+SHP0404,Pharma,Vaccines,403.13,3.89,197.61,Medium,No,8
+SHP0405,Electronics,TV,818.0,10.25,22.96,Medium,Yes,8
+SHP0406,Textiles,Home Fabrics,1416.76,6.15,459.61,Medium,Yes,8
+SHP0407,Electronics,Mobile,755.63,10.89,264.72,Medium,Yes,2
+SHP0408,Pharma,Vaccines,274.13,11.92,345.16,Medium,Yes,1
+SHP0409,FMCG,Personal Care,929.1,11.28,77.26,Low,No,4
+SHP0410,Textiles,Footwear,1178.85,3.73,131.21,Medium,Yes,1
+SHP0411,Electronics,Laptop,222.99,1.53,147.49,Low,Yes,4
+SHP0412,Pharma,Medicines,709.71,10.03,408.04,High,No,11
+SHP0413,Automotive,Spare Parts,113.29,8.57,62.76,Low,Yes,6
+SHP0414,Electronics,Accessories,814.43,5.01,489.81,High,No,6
+SHP0415,Textiles,Clothing,514.72,11.16,414.47,Medium,No,1
+SHP0416,Pharma,Medicines,1329.61,2.6,80.85,Low,Yes,13
+SHP0417,Textiles,Clothing,880.38,6.23,410.54,Low,No,14
+SHP0418,Automotive,Tyres,1369.58,5.81,100.83,High,No,12
+SHP0419,Pharma,Vaccines,926.25,10.71,450.05,Low,No,11
+SHP0420,Textiles,Footwear,1328.46,10.93,115.29,Low,No,8
+SHP0421,Pharma,Medicines,674.21,6.96,130.87,Low,No,8
+SHP0422,FMCG,Personal Care,1346.94,7.09,341.86,Medium,Yes,11
+SHP0423,Electronics,Laptop,944.03,9.08,394.82,Medium,Yes,13
+SHP0424,FMCG,Beverages,1068.84,6.33,481.87,Medium,No,7
+SHP0425,FMCG,Beverages,1489.25,8.03,236.12,Medium,No,7
+SHP0426,Pharma,Vaccines,298.43,3.63,142.69,Medium,No,5
+SHP0427,Electronics,Laptop,902.77,0.51,357.69,High,Yes,14
+SHP0428,Textiles,Clothing,1410.32,10.47,411.72,High,No,12
+SHP0429,Automotive,Tyres,746.92,10.39,258.01,Medium,Yes,12
+SHP0430,Textiles,Home Fabrics,363.98,10.34,138.16,Medium,No,13
+SHP0431,Textiles,Footwear,596.6,3.97,179.91,High,Yes,4
+SHP0432,Textiles,Home Fabrics,116.76,10.5,349.99,Low,No,1
+SHP0433,FMCG,Personal Care,102.02,4.71,158.99,Medium,Yes,8
+SHP0434,Textiles,Footwear,588.19,10.84,412.33,High,Yes,5
+SHP0435,Textiles,Clothing,1436.5,4.38,454.3,Medium,Yes,14
+SHP0436,Pharma,Medicines,283.49,1.89,206.05,Low,Yes,1
+SHP0437,Pharma,Medical Devices,328.21,3.23,123.82,High,No,7
+SHP0438,Electronics,Laptop,770.34,7.05,192.82,Medium,Yes,4
+SHP0439,Textiles,Home Fabrics,564.88,1.92,387.91,High,No,11
+SHP0440,Automotive,Tyres,975.18,6.85,303.93,Low,Yes,14
+SHP0441,Automotive,Tyres,123.32,6.6,338.33,Medium,No,14
+SHP0442,Pharma,Medical Devices,887.31,7.58,278.51,High,Yes,8
+SHP0443,Pharma,Vaccines,648.14,4.54,297.44,Medium,Yes,13
+SHP0444,FMCG,Personal Care,1283.83,1.38,279.76,Medium,Yes,8
+SHP0445,Electronics,Mobile,927.88,0.78,285.49,High,No,1
+SHP0446,FMCG,Beverages,483.49,8.13,434.32,High,No,1
+SHP0447,Automotive,Tyres,947.67,11.95,16.7,Medium,No,10
+SHP0448,FMCG,Beverages,152.46,2.82,76.68,High,Yes,12
+SHP0449,Textiles,Home Fabrics,767.51,3.07,264.87,Medium,Yes,8
+SHP0450,FMCG,Packaged Food,768.98,10.71,406.01,Medium,Yes,4
+SHP0451,Automotive,Spare Parts,408.67,4.38,302.05,Low,Yes,3
+SHP0452,Textiles,Clothing,1469.86,10.32,371.94,High,Yes,6
+SHP0453,Textiles,Clothing,638.5,6.59,226.34,High,No,13
+SHP0454,Automotive,Tyres,470.39,4.3,193.74,High,Yes,14
+SHP0455,Automotive,Spare Parts,1319.51,10.16,361.92,High,No,6
+SHP0456,FMCG,Beverages,969.08,11.7,225.3,Medium,No,13
+SHP0457,Pharma,Medicines,989.01,2.27,392.06,Medium,Yes,9
+SHP0458,Textiles,Clothing,969.62,2.66,127.97,High,Yes,5
+SHP0459,FMCG,Beverages,500.02,4.32,499.76,High,No,1
+SHP0460,Textiles,Home Fabrics,573.09,6.57,176.06,Low,Yes,10
+SHP0461,FMCG,Beverages,594.85,4.59,285.31,Medium,Yes,12
+SHP0462,Textiles,Home Fabrics,1086.64,9.41,264.24,Medium,Yes,8
+SHP0463,Automotive,Spare Parts,329.94,5.21,314.83,High,Yes,6
+SHP0464,Textiles,Clothing,1283.45,10.75,353.24,High,No,9
+SHP0465,FMCG,Personal Care,1041.21,1.07,84.7,High,Yes,10
+SHP0466,FMCG,Beverages,708.77,2.16,426.8,Medium,No,12
+SHP0467,Electronics,TV,1016.14,7.16,142.44,Low,No,14
+SHP0468,FMCG,Personal Care,762.0,7.68,247.84,High,No,9
+SHP0469,Electronics,TV,1383.45,1.23,488.78,High,Yes,5
+SHP0470,FMCG,Personal Care,9.14,11.23,240.94,High,No,3
+SHP0471,FMCG,Beverages,365.26,9.29,493.3,Medium,No,5
+SHP0472,Electronics,Mobile,1348.28,5.31,70.87,Medium,Yes,9
+SHP0473,Pharma,Vaccines,448.63,4.35,318.49,High,No,4
+SHP0474,Electronics,Accessories,493.05,11.22,202.23,Medium,No,13
+SHP0475,FMCG,Beverages,1266.88,7.84,477.31,High,No,2
+SHP0476,Automotive,Tyres,130.07,5.78,473.45,Medium,No,12
+SHP0477,Automotive,Batteries,824.09,10.28,229.28,High,Yes,13
+SHP0478,Textiles,Home Fabrics,841.22,7.2,404.68,Medium,No,7
+SHP0479,Textiles,Footwear,586.02,8.18,228.15,Medium,No,6
+SHP0480,Automotive,Tyres,60.86,1.55,125.41,Low,No,7
+SHP0481,FMCG,Personal Care,1414.93,9.51,378.83,Low,No,1
+SHP0482,Automotive,Spare Parts,487.48,5.2,261.37,Medium,Yes,9
+SHP0483,Textiles,Home Fabrics,1240.85,1.19,235.44,Medium,Yes,6
+SHP0484,Electronics,TV,1003.49,4.41,177.79,Low,Yes,10
+SHP0485,Textiles,Clothing,1087.18,3.9,36.15,Low,No,2
+SHP0486,Electronics,Laptop,320.85,7.35,369.27,High,No,10
+SHP0487,FMCG,Personal Care,731.77,8.35,177.38,High,Yes,7
+SHP0488,Electronics,Laptop,1138.82,6.77,40.49,Low,No,6
+SHP0489,Automotive,Batteries,1050.07,3.07,411.66,Medium,No,1
+SHP0490,Pharma,Vaccines,767.32,9.52,245.98,High,No,3
+SHP0491,Electronics,TV,256.59,10.11,489.14,Medium,Yes,12
+SHP0492,FMCG,Personal Care,1193.23,3.19,250.28,High,Yes,12
+SHP0493,Automotive,Spare Parts,292.83,0.06,386.31,Low,No,13
+SHP0494,FMCG,Personal Care,1165.5,0.92,359.88,Low,Yes,12
+SHP0495,Electronics,Laptop,969.22,10.62,372.48,Low,No,11
+SHP0496,Electronics,TV,773.69,7.64,26.49,Low,No,13
+SHP0497,Electronics,Accessories,655.27,6.97,290.74,Low,No,7
+SHP0498,Pharma,Medicines,446.83,3.1,478.39,Medium,No,14
+SHP0499,Textiles,Home Fabrics,1080.5,9.13,220.4,Medium,Yes,9
+SHP0500,Pharma,Medical Devices,272.96,10.58,483.49,Medium,Yes,3
+SHP0501,Electronics,Laptop,1390.78,7.99,169.67,High,Yes,6
+SHP0502,Textiles,Footwear,578.25,10.51,449.91,Medium,No,10
+SHP0503,Electronics,Mobile,119.8,3.27,260.53,Low,No,3
+SHP0504,Electronics,Mobile,330.29,11.13,447.51,Medium,No,7
+SHP0505,Automotive,Spare Parts,81.85,1.53,298.44,High,Yes,3
+SHP0506,Automotive,Tyres,326.42,1.0,407.39,High,Yes,2
+SHP0507,FMCG,Personal Care,1481.6,10.58,187.96,Medium,No,2
+SHP0508,Electronics,TV,1050.79,5.54,486.34,High,Yes,14
+SHP0509,Pharma,Vaccines,1257.81,1.46,315.09,High,No,4
+SHP0510,Automotive,Batteries,813.43,1.02,401.61,Medium,Yes,5
+SHP0511,Electronics,Accessories,264.24,6.76,203.5,High,Yes,1
+SHP0512,FMCG,Personal Care,1309.54,10.17,349.53,Medium,No,6
+SHP0513,Pharma,Vaccines,843.86,3.03,402.99,Low,Yes,3
+SHP0514,FMCG,Packaged Food,358.85,4.94,28.49,Low,Yes,3
+SHP0515,Textiles,Clothing,1067.48,9.45,205.71,Medium,Yes,1
+SHP0516,Pharma,Medical Devices,904.91,1.41,319.88,Low,Yes,3
+SHP0517,Automotive,Spare Parts,1396.58,6.16,101.35,Low,Yes,9
+SHP0518,Pharma,Medical Devices,191.86,9.61,229.16,Medium,No,5
+SHP0519,FMCG,Personal Care,289.37,7.97,200.06,Low,Yes,4
+SHP0520,Automotive,Batteries,1352.2,11.59,142.28,High,No,2
+SHP0521,Pharma,Medical Devices,276.87,2.3,123.0,Low,Yes,13
+SHP0522,Automotive,Spare Parts,1191.34,2.96,252.93,Medium,Yes,5
+SHP0523,Textiles,Footwear,675.32,3.86,208.79,Medium,Yes,13
+SHP0524,Automotive,Batteries,1090.09,10.88,174.41,Low,No,8
+SHP0525,Electronics,TV,40.09,1.78,46.71,Low,Yes,11
+SHP0526,Textiles,Footwear,317.76,6.7,131.29,Medium,Yes,12
+SHP0527,Pharma,Vaccines,7.01,7.91,106.95,Low,Yes,10
+SHP0528,Textiles,Home Fabrics,1496.77,0.92,222.22,High,No,4
+SHP0529,FMCG,Personal Care,383.82,7.7,314.96,Low,No,14
+SHP0530,Automotive,Batteries,1186.5,10.74,185.74,Medium,Yes,12
+SHP0531,Automotive,Batteries,11.19,1.01,297.37,High,No,10
+SHP0532,Electronics,TV,1224.7,8.27,218.71,Low,Yes,1
+SHP0533,FMCG,Beverages,1369.85,3.66,138.68,Medium,No,6
+SHP0534,Automotive,Tyres,776.6,10.0,404.59,Medium,No,6
+SHP0535,FMCG,Beverages,1135.68,5.65,127.14,Low,No,11
+SHP0536,FMCG,Packaged Food,1153.51,1.72,170.03,High,Yes,8
+SHP0537,Electronics,Accessories,293.26,9.16,235.41,Medium,No,8
+SHP0538,Pharma,Vaccines,522.07,11.3,266.14,Low,No,12
+SHP0539,Electronics,TV,306.38,3.29,414.36,High,No,13
+SHP0540,FMCG,Packaged Food,855.62,1.42,8.12,Low,No,3
+SHP0541,Automotive,Batteries,835.19,4.67,241.28,Medium,Yes,6
+SHP0542,Automotive,Batteries,47.3,10.54,99.32,Medium,No,9
+SHP0543,Electronics,Laptop,669.22,7.35,289.11,High,No,5
+SHP0544,FMCG,Packaged Food,1169.33,8.04,486.74,Low,Yes,5
+SHP0545,Pharma,Medicines,255.09,8.72,207.32,Low,Yes,10
+SHP0546,Automotive,Tyres,403.85,0.32,352.61,Medium,Yes,9
+SHP0547,FMCG,Beverages,1419.6,8.53,464.11,Medium,No,5
+SHP0548,FMCG,Personal Care,1067.96,2.94,132.36,Medium,Yes,9
+SHP0549,FMCG,Packaged Food,497.28,0.11,47.5,Medium,Yes,4
+SHP0550,Textiles,Footwear,270.24,6.97,202.43,Medium,Yes,13
+SHP0551,Automotive,Spare Parts,270.32,7.34,233.12,Medium,No,5
+SHP0552,FMCG,Personal Care,458.57,2.8,364.6,Low,Yes,2
+SHP0553,Electronics,Laptop,154.87,6.48,202.73,Low,Yes,5
+SHP0554,Electronics,Accessories,1373.51,0.53,104.27,Low,No,12
+SHP0555,Textiles,Clothing,644.75,11.02,492.13,Low,Yes,5
+SHP0556,Automotive,Batteries,1387.48,3.02,139.71,Low,No,4
+SHP0557,Electronics,Mobile,1246.79,2.84,159.42,High,Yes,10
+SHP0558,Electronics,TV,843.19,10.72,484.05,Low,No,5
+SHP0559,FMCG,Packaged Food,475.8,5.41,306.91,Medium,Yes,11
+SHP0560,FMCG,Personal Care,682.97,4.56,74.09,Low,Yes,11
+SHP0561,Automotive,Spare Parts,1343.42,8.42,403.05,High,Yes,11
+SHP0562,Pharma,Medicines,1439.67,6.58,124.25,Medium,No,3
+SHP0563,Pharma,Medicines,331.19,2.39,385.81,High,No,6
+SHP0564,Pharma,Medicines,117.99,2.31,123.55,High,Yes,3
+SHP0565,Automotive,Tyres,1115.9,0.79,277.88,Low,Yes,8
+SHP0566,FMCG,Beverages,1376.36,10.12,262.21,Medium,No,5
+SHP0567,FMCG,Personal Care,269.5,7.5,69.73,High,No,7
+SHP0568,Automotive,Batteries,752.74,4.38,315.03,High,No,4
+SHP0569,Automotive,Tyres,758.57,2.96,139.91,Medium,No,9
+SHP0570,Textiles,Home Fabrics,194.12,1.81,360.51,High,No,9
+SHP0571,Electronics,Mobile,1290.97,1.81,329.4,Medium,No,4
+SHP0572,Automotive,Spare Parts,55.74,7.46,478.62,Medium,Yes,1
+SHP0573,Automotive,Spare Parts,793.74,4.98,54.31,Medium,Yes,5
+SHP0574,Textiles,Clothing,505.3,5.98,494.44,Low,No,13
+SHP0575,Electronics,Laptop,43.2,1.78,434.42,Medium,Yes,10
+SHP0576,Pharma,Vaccines,421.21,5.76,276.51,High,No,11
+SHP0577,Pharma,Medical Devices,239.95,10.16,227.85,Low,No,11
+SHP0578,Pharma,Vaccines,87.29,5.98,256.08,Low,Yes,14
+SHP0579,Automotive,Batteries,1373.32,6.08,400.24,High,No,10
+SHP0580,Textiles,Footwear,119.9,4.56,347.68,Low,No,11
+SHP0581,FMCG,Beverages,801.74,5.79,149.84,High,Yes,14
+SHP0582,Textiles,Footwear,189.81,1.32,484.76,Medium,No,2
+SHP0583,FMCG,Personal Care,590.25,9.58,404.37,High,Yes,7
+SHP0584,FMCG,Beverages,120.94,8.3,475.54,Medium,No,2
+SHP0585,Electronics,Mobile,273.78,6.67,49.02,Low,No,4
+SHP0586,FMCG,Beverages,886.78,6.24,191.04,High,No,3
+SHP0587,Textiles,Footwear,628.36,1.8,158.7,Low,No,2
+SHP0588,FMCG,Personal Care,496.13,3.06,304.73,Medium,No,5
+SHP0589,Pharma,Vaccines,890.35,9.16,474.21,Medium,No,5
+SHP0590,Automotive,Tyres,1037.55,1.92,427.54,Low,No,4
+SHP0591,FMCG,Personal Care,1177.35,8.51,268.59,High,No,14
+SHP0592,FMCG,Personal Care,197.56,0.18,293.91,High,No,8
+SHP0593,Electronics,Accessories,460.52,11.03,18.81,Low,No,8
+SHP0594,Automotive,Batteries,307.09,3.14,82.66,Medium,No,1
+SHP0595,Pharma,Medicines,302.89,10.18,193.45,Low,Yes,8
+SHP0596,FMCG,Beverages,1359.69,2.96,102.25,Low,No,8
+SHP0597,Automotive,Batteries,731.63,4.39,368.66,Low,No,12
+SHP0598,Automotive,Tyres,431.87,8.98,8.22,Low,No,12
+SHP0599,Pharma,Medical Devices,1165.08,4.39,424.8,Low,Yes,14
+SHP0600,FMCG,Beverages,311.51,2.46,250.29,High,Yes,6
+SHP0601,Textiles,Home Fabrics,1109.96,10.4,36.52,High,Yes,8
+SHP0602,Automotive,Tyres,667.43,3.7,139.8,High,No,8
+SHP0603,Pharma,Vaccines,262.47,2.03,339.99,Medium,No,11
+SHP0604,FMCG,Packaged Food,195.09,1.82,415.37,High,Yes,2
+SHP0605,Electronics,Laptop,424.63,9.46,38.12,High,Yes,3
+SHP0606,Textiles,Home Fabrics,331.66,6.57,197.03,Low,Yes,9
+SHP0607,Automotive,Spare Parts,593.24,9.47,474.88,Medium,Yes,7
+SHP0608,Pharma,Vaccines,546.11,8.25,228.58,Low,Yes,13
+SHP0609,Electronics,Accessories,1429.34,10.05,72.51,Low,No,13
+SHP0610,Automotive,Spare Parts,151.39,4.06,491.5,Medium,No,4
+SHP0611,Textiles,Clothing,167.73,4.58,300.65,Medium,Yes,2
+SHP0612,Textiles,Clothing,660.18,0.29,261.77,High,No,3
+SHP0613,Electronics,Laptop,101.8,9.97,84.42,Medium,Yes,5
+SHP0614,FMCG,Personal Care,1172.38,11.99,497.01,High,Yes,4
+SHP0615,FMCG,Beverages,1407.93,5.13,79.03,Low,Yes,5
+SHP0616,Textiles,Home Fabrics,1268.05,4.21,348.81,Low,Yes,13
+SHP0617,Electronics,Accessories,824.0,11.99,154.83,Medium,Yes,8
+SHP0618,Automotive,Spare Parts,99.63,1.93,371.34,Medium,Yes,3
+SHP0619,Textiles,Home Fabrics,74.28,0.81,141.83,Low,No,1
+SHP0620,Automotive,Spare Parts,435.73,7.03,140.77,High,Yes,7
+SHP0621,Electronics,Mobile,814.71,5.18,453.08,Medium,No,7
+SHP0622,Electronics,TV,1013.72,6.57,102.08,High,Yes,13
+SHP0623,FMCG,Personal Care,1113.46,11.9,146.12,High,No,6
+SHP0624,FMCG,Packaged Food,1162.73,6.03,20.73,High,Yes,14
+SHP0625,Textiles,Home Fabrics,834.24,3.87,463.61,Low,No,6
+SHP0626,Automotive,Batteries,535.14,6.13,418.19,Medium,No,12
+SHP0627,FMCG,Packaged Food,835.79,9.14,139.36,High,No,1
+SHP0628,Electronics,Accessories,1092.95,5.76,154.52,Low,Yes,1
+SHP0629,Pharma,Medicines,1143.6,1.15,181.07,Low,Yes,9
+SHP0630,FMCG,Personal Care,1345.75,3.03,224.44,Low,Yes,10
+SHP0631,Textiles,Footwear,390.81,10.01,313.88,High,No,4
+SHP0632,Textiles,Footwear,541.44,8.95,331.27,High,Yes,8
+SHP0633,Textiles,Home Fabrics,595.22,3.08,308.19,High,No,13
+SHP0634,FMCG,Personal Care,1441.6,11.42,122.69,High,Yes,12
+SHP0635,Textiles,Footwear,1344.94,3.05,438.62,Medium,Yes,10
+SHP0636,Automotive,Batteries,792.74,8.59,109.89,High,Yes,6
+SHP0637,FMCG,Beverages,1027.53,7.75,411.24,Low,No,6
+SHP0638,Pharma,Vaccines,997.86,7.64,250.06,High,No,14
+SHP0639,FMCG,Packaged Food,1001.67,11.6,273.96,Medium,No,8
+SHP0640,Automotive,Spare Parts,1179.19,10.01,469.61,High,Yes,10
+SHP0641,Textiles,Clothing,1479.58,3.07,157.37,Medium,Yes,6
+SHP0642,Textiles,Home Fabrics,1172.51,8.15,65.56,Low,Yes,6
+SHP0643,FMCG,Personal Care,1465.98,10.08,135.67,High,Yes,5
+SHP0644,Automotive,Spare Parts,944.51,2.51,250.09,Medium,No,2
+SHP0645,Pharma,Medical Devices,1340.4,7.12,93.38,Low,No,4
+SHP0646,Textiles,Footwear,1023.83,8.5,88.49,High,Yes,6
+SHP0647,Electronics,Accessories,281.61,11.26,265.86,Medium,No,2
+SHP0648,Automotive,Spare Parts,1002.23,10.19,380.5,Medium,No,12
+SHP0649,Automotive,Tyres,297.72,7.4,284.68,High,No,1
+SHP0650,Pharma,Medicines,155.57,8.64,366.98,High,No,13
+SHP0651,Textiles,Footwear,102.57,10.95,205.95,Low,Yes,12
+SHP0652,Pharma,Vaccines,949.21,9.15,253.64,Low,No,1
+SHP0653,Pharma,Medical Devices,51.85,10.97,220.41,Low,No,9
+SHP0654,Pharma,Medicines,167.98,4.05,35.14,High,No,13
+SHP0655,Electronics,Accessories,585.82,7.02,123.51,Medium,No,1
+SHP0656,Automotive,Batteries,170.75,9.18,111.04,High,Yes,6
+SHP0657,FMCG,Personal Care,863.08,9.57,17.73,High,No,11
+SHP0658,Textiles,Home Fabrics,458.91,8.91,331.17,Low,Yes,11
+SHP0659,Pharma,Medical Devices,361.68,9.21,473.08,Low,No,8
+SHP0660,Electronics,Mobile,1261.54,11.45,405.11,Low,No,3
+SHP0661,Textiles,Footwear,1121.17,8.25,340.31,Low,Yes,13
+SHP0662,Automotive,Spare Parts,322.13,3.8,265.87,Low,Yes,6
+SHP0663,FMCG,Packaged Food,1421.59,10.26,440.9,Low,No,7
+SHP0664,Pharma,Medical Devices,506.09,7.59,164.56,Low,Yes,13
+SHP0665,Electronics,Laptop,458.92,3.99,470.31,High,No,9
+SHP0666,FMCG,Packaged Food,881.44,9.46,476.91,High,No,8
+SHP0667,Pharma,Medicines,1070.38,8.76,443.59,Medium,No,8
+SHP0668,Textiles,Footwear,753.17,7.05,393.06,High,Yes,9
+SHP0669,FMCG,Personal Care,295.66,0.96,316.35,Medium,Yes,12
+SHP0670,Electronics,Mobile,1468.37,3.17,340.8,Medium,No,6
+SHP0671,Electronics,Laptop,573.21,5.05,262.68,High,No,4
+SHP0672,Pharma,Medicines,944.89,4.31,312.58,High,No,12
+SHP0673,Textiles,Home Fabrics,791.28,5.97,265.6,High,Yes,10
+SHP0674,Pharma,Medicines,171.68,3.6,426.92,Low,No,3
+SHP0675,FMCG,Personal Care,1084.0,1.7,99.56,Medium,Yes,12
+SHP0676,Pharma,Medicines,931.04,1.96,15.61,High,Yes,13
+SHP0677,Electronics,Mobile,1221.46,3.85,359.78,High,Yes,11
+SHP0678,Electronics,Mobile,59.73,7.82,191.36,Low,Yes,11
+SHP0679,Electronics,Laptop,1288.86,2.73,210.33,Medium,Yes,9
+SHP0680,FMCG,Personal Care,501.88,0.83,159.63,Low,No,5
+SHP0681,Automotive,Tyres,330.35,0.73,213.94,Medium,Yes,13
+SHP0682,Electronics,Mobile,1293.34,3.6,494.93,Medium,Yes,3
+SHP0683,Textiles,Footwear,410.6,0.27,15.5,High,Yes,13
+SHP0684,Pharma,Medicines,944.8,4.41,442.72,High,Yes,8
+SHP0685,Pharma,Vaccines,798.25,8.53,485.66,High,Yes,10
+SHP0686,Textiles,Footwear,788.27,11.5,280.94,High,No,11
+SHP0687,FMCG,Beverages,567.2,10.28,115.31,High,No,9
+SHP0688,FMCG,Beverages,1216.01,4.87,52.5,High,Yes,6
+SHP0689,Pharma,Medical Devices,639.71,11.58,285.64,Medium,No,4
+SHP0690,Automotive,Batteries,1056.87,2.39,267.54,High,No,13
+SHP0691,Automotive,Spare Parts,1112.88,8.29,428.2,Low,No,7
+SHP0692,Electronics,TV,894.93,6.32,44.52,Low,No,13
+SHP0693,FMCG,Personal Care,193.49,11.32,173.56,Medium,Yes,7
+SHP0694,FMCG,Personal Care,907.89,3.98,158.12,Low,No,6
+SHP0695,Pharma,Medical Devices,1105.11,3.9,141.48,Low,No,3
+SHP0696,Pharma,Medical Devices,821.78,6.14,68.3,Medium,Yes,5
+SHP0697,Electronics,Mobile,1233.87,5.6,125.57,High,Yes,9
+SHP0698,FMCG,Beverages,383.26,11.56,268.04,High,No,11
+SHP0699,Electronics,TV,423.31,8.94,406.4,High,No,12
+SHP0700,Pharma,Medicines,200.82,0.81,354.72,Low,No,7
+SHP0701,Textiles,Home Fabrics,411.56,4.45,144.28,High,No,1
+SHP0702,Electronics,Mobile,1483.33,9.71,134.43,High,No,9
+SHP0703,Pharma,Medicines,125.41,8.07,192.13,Low,Yes,10
+SHP0704,Textiles,Home Fabrics,191.2,5.82,241.56,High,No,6
+SHP0705,Pharma,Vaccines,1349.13,11.95,387.58,Medium,No,14
+SHP0706,Textiles,Home Fabrics,1357.35,5.48,341.66,Low,No,5
+SHP0707,Pharma,Vaccines,1431.94,0.23,61.05,Medium,No,11
+SHP0708,FMCG,Packaged Food,843.0,7.75,404.94,High,Yes,5
+SHP0709,Pharma,Medicines,1397.55,7.46,139.5,Low,No,1
+SHP0710,FMCG,Packaged Food,511.97,10.3,150.16,High,Yes,10
+SHP0711,Automotive,Tyres,1489.17,1.99,58.94,Low,Yes,11
+SHP0712,Textiles,Clothing,1409.32,11.01,453.49,Medium,No,5
+SHP0713,FMCG,Personal Care,1387.01,2.02,96.39,Low,No,3
+SHP0714,Automotive,Batteries,1499.06,7.55,410.38,Low,Yes,13
+SHP0715,Textiles,Footwear,971.17,0.38,283.53,Medium,Yes,7
+SHP0716,FMCG,Packaged Food,234.74,4.67,67.75,Medium,Yes,1
+SHP0717,Automotive,Batteries,134.38,2.07,233.85,Medium,No,7
+SHP0718,Electronics,Accessories,905.81,7.36,302.79,High,Yes,7
+SHP0719,Electronics,TV,1408.86,6.42,275.81,High,No,10
+SHP0720,Automotive,Spare Parts,368.31,11.27,324.84,Low,Yes,7
+SHP0721,Textiles,Home Fabrics,1066.72,10.93,309.59,Low,Yes,14
+SHP0722,FMCG,Packaged Food,1128.82,1.1,321.47,Medium,No,12
+SHP0723,FMCG,Personal Care,431.95,4.78,347.45,Low,No,6
+SHP0724,Pharma,Medical Devices,788.3,6.45,206.74,Low,Yes,13
+SHP0725,Textiles,Home Fabrics,345.21,5.99,488.25,Low,No,2
+SHP0726,Pharma,Medicines,1204.55,10.64,282.01,Medium,Yes,14
+SHP0727,FMCG,Personal Care,1382.79,2.45,349.47,Low,No,7
+SHP0728,Automotive,Spare Parts,381.07,7.74,121.64,High,No,9
+SHP0729,Pharma,Medical Devices,744.62,3.61,75.01,Low,No,9
+SHP0730,Automotive,Tyres,371.2,8.9,339.37,High,No,12
+SHP0731,FMCG,Beverages,196.06,11.06,220.44,Medium,Yes,14
+SHP0732,FMCG,Beverages,1456.29,6.73,420.16,Low,No,9
+SHP0733,Textiles,Clothing,93.19,9.69,35.47,Medium,No,3
+SHP0734,Pharma,Medical Devices,1401.74,10.17,479.35,High,Yes,13
+SHP0735,FMCG,Personal Care,942.96,5.7,44.6,High,No,10
+SHP0736,FMCG,Personal Care,394.8,0.41,417.52,Low,Yes,12
+SHP0737,Electronics,TV,1414.69,5.0,20.79,Medium,No,3
+SHP0738,FMCG,Packaged Food,485.91,3.65,119.61,Low,No,2
+SHP0739,Textiles,Footwear,715.59,0.72,446.15,High,No,2
+SHP0740,Automotive,Spare Parts,364.78,2.86,196.95,Medium,Yes,11
+SHP0741,Automotive,Batteries,1260.55,6.02,181.07,High,Yes,4
+SHP0742,FMCG,Personal Care,38.04,10.67,176.69,Medium,No,1
+SHP0743,Pharma,Medical Devices,534.46,3.43,484.77,Medium,Yes,6
+SHP0744,Pharma,Medical Devices,886.26,3.71,346.96,Medium,Yes,2
+SHP0745,Textiles,Clothing,312.81,8.7,192.14,Medium,No,10
+SHP0746,Electronics,Accessories,242.43,10.95,105.76,Medium,Yes,10
+SHP0747,Pharma,Medicines,207.54,2.39,473.87,Low,No,9
+SHP0748,Electronics,Mobile,648.24,4.84,296.49,High,No,8
+SHP0749,Textiles,Footwear,1140.38,4.13,262.88,Medium,Yes,2
+SHP0750,Automotive,Tyres,508.1,0.6,253.52,Low,Yes,3
+SHP0751,Electronics,Accessories,295.77,8.45,58.23,Medium,No,2
+SHP0752,FMCG,Packaged Food,146.64,9.26,416.81,High,No,4
+SHP0753,Electronics,Mobile,373.69,8.47,314.35,High,No,3
+SHP0754,Automotive,Batteries,1398.88,3.35,55.03,Medium,Yes,9
+SHP0755,FMCG,Personal Care,1278.34,6.54,35.31,Medium,No,5
+SHP0756,Textiles,Home Fabrics,1209.35,4.12,60.89,Medium,Yes,3
+SHP0757,Pharma,Medicines,183.37,10.78,247.92,High,Yes,11
+SHP0758,Electronics,Mobile,1304.53,11.23,121.29,Medium,Yes,8
+SHP0759,Pharma,Medicines,653.3,11.23,462.34,High,Yes,6
+SHP0760,Electronics,Laptop,647.12,6.84,475.56,High,Yes,4
+SHP0761,Electronics,TV,1225.92,10.01,353.0,High,No,11
+SHP0762,Textiles,Footwear,299.61,5.78,98.12,Low,No,9
+SHP0763,Textiles,Home Fabrics,1111.54,1.66,384.57,Medium,Yes,13
+SHP0764,Automotive,Batteries,366.77,2.05,257.81,High,Yes,9
+SHP0765,Pharma,Vaccines,1400.84,10.17,264.78,High,No,12
+SHP0766,Electronics,Accessories,1439.52,9.5,377.67,Low,Yes,12
+SHP0767,Automotive,Spare Parts,929.69,1.22,438.2,High,No,13
+SHP0768,Electronics,TV,1388.35,9.1,145.86,High,Yes,13
+SHP0769,Electronics,TV,355.18,3.89,216.49,Medium,Yes,11
+SHP0770,Textiles,Clothing,1410.67,10.23,219.34,Low,Yes,12
+SHP0771,Automotive,Spare Parts,412.2,8.38,372.53,High,Yes,4
+SHP0772,Electronics,Mobile,222.97,9.46,57.53,Low,No,12
+SHP0773,Electronics,Laptop,311.15,5.82,463.75,High,No,13
+SHP0774,Textiles,Home Fabrics,414.96,4.36,130.43,Low,No,11
+SHP0775,Pharma,Medicines,282.01,3.63,376.06,High,Yes,6
+SHP0776,Electronics,Mobile,550.16,1.13,114.36,Low,Yes,8
+SHP0777,Pharma,Medical Devices,495.84,11.1,40.63,Medium,Yes,4
+SHP0778,FMCG,Beverages,1473.44,8.65,392.35,Medium,No,13
+SHP0779,FMCG,Beverages,10.9,1.56,78.02,Medium,Yes,12
+SHP0780,Automotive,Tyres,1494.88,2.5,58.27,Medium,Yes,14
+SHP0781,Automotive,Batteries,23.87,10.44,154.6,Medium,Yes,2
+SHP0782,FMCG,Packaged Food,901.71,6.37,57.67,Low,Yes,8
+SHP0783,Electronics,TV,722.82,10.82,421.93,Medium,No,8
+SHP0784,Textiles,Footwear,374.69,0.11,449.77,Low,No,2
+SHP0785,Pharma,Vaccines,685.58,9.02,15.74,High,No,9
+SHP0786,FMCG,Personal Care,1186.73,6.41,140.82,High,Yes,2
+SHP0787,Textiles,Clothing,75.99,10.98,230.81,Medium,No,3
+SHP0788,Textiles,Clothing,661.91,11.64,357.56,Low,No,11
+SHP0789,FMCG,Packaged Food,1090.01,1.36,350.28,Medium,No,13
+SHP0790,Electronics,Mobile,922.12,4.92,417.14,Low,No,14
+SHP0791,Pharma,Medical Devices,837.78,1.33,14.47,Medium,Yes,13
+SHP0792,FMCG,Packaged Food,1.21,7.71,255.37,Low,No,1
+SHP0793,Automotive,Spare Parts,210.23,1.15,196.28,Low,No,13
+SHP0794,Electronics,TV,352.73,4.53,409.5,High,No,11
+SHP0795,Automotive,Tyres,233.45,0.34,57.37,Low,No,2
+SHP0796,Automotive,Batteries,331.36,9.15,63.35,High,No,14
+SHP0797,FMCG,Beverages,1362.57,10.9,400.32,Medium,No,9
+SHP0798,Electronics,Laptop,417.55,2.44,51.16,Low,No,8
+SHP0799,Pharma,Medical Devices,1122.81,3.46,140.58,Low,Yes,3
+SHP0800,FMCG,Beverages,526.44,4.64,208.1,Medium,Yes,2
